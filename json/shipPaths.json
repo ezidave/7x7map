@@ -1,0 +1,404 @@
+[
+	{
+		"AutoSpawnEveryUTCInterval": 14000,
+		"AutoSpawnShipClass": "Blueprint'/Game/Atlas/ShipPaths/PathFollowingGhostShip_BP.PathFollowingGhostShip_BP'",
+		"Nodes": [
+			{
+				"controlPointsDistance": 223176.656,
+				"rotation": -114.443954,
+				"worldX": 807365.5,
+				"worldY": 8957059
+			},
+			{
+				"controlPointsDistance": 453802.125,
+				"rotation": 220.399536,
+				"worldX": 646363.938,
+				"worldY": 7506200.5
+			},
+			{
+				"controlPointsDistance": 313791.938,
+				"rotation": -62.2818832,
+				"worldX": 838353.063,
+				"worldY": 2234742.25
+			},
+			{
+				"controlPointsDistance": 256963.234,
+				"rotation": -38.506485,
+				"worldX": 1929254.5,
+				"worldY": 1984665
+			},
+			{
+				"controlPointsDistance": 409516.063,
+				"rotation": -27.916914,
+				"worldX": 2415009.25,
+				"worldY": 735766.4
+			},
+			{
+				"controlPointsDistance": 451782.5,
+				"rotation": 28.0568275,
+				"worldX": 8452816,
+				"worldY": 1054356.25
+			},
+			{
+				"controlPointsDistance": 190650.766,
+				"rotation": 75.96375,
+				"worldX": 8995596,
+				"worldY": 1717181.88
+			},
+			{
+				"controlPointsDistance": 273575.8,
+				"rotation": 18.76434,
+				"worldX": 9074912,
+				"worldY": 3613692.5
+			},
+			{
+				"controlPointsDistance": 290634.2,
+				"rotation": 92.2906,
+				"worldX": 9397486,
+				"worldY": 4624240.5
+			},
+			{
+				"controlPointsDistance": 229558.859,
+				"rotation": 87.27368,
+				"worldX": 9131810,
+				"worldY": 6139172.5
+			},
+			{
+				"controlPointsDistance": 688861.3,
+				"rotation": 102.4964,
+				"worldX": 8956975,
+				"worldY": 8842852
+			}
+		],
+		"PathId": 1,
+		"PathName": "Ghost Ship",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 14000,
+		"AutoSpawnShipClass": "Blueprint'/Game/Atlas/ShipPaths/PathFollowingGhostShip_BP.PathFollowingGhostShip_BP'",
+		"Nodes": [
+			{
+				"controlPointsDistance": 229093.453,
+				"rotation": -146.309937,
+				"worldX": 2172608.75,
+				"worldY": 6198022
+			},
+			{
+				"controlPointsDistance": 366051.438,
+				"rotation": -96.9112244,
+				"worldX": 2133517.25,
+				"worldY": 4983398.5
+			},
+			{
+				"controlPointsDistance": 258924.719,
+				"rotation": -34.2004852,
+				"worldX": 2203517.25,
+				"worldY": 3472764.5
+			},
+			{
+				"controlPointsDistance": 296863.938,
+				"rotation": 19.3589935,
+				"worldX": 3394821.75,
+				"worldY": 3538930.75
+			},
+			{
+				"controlPointsDistance": 292256.969,
+				"rotation": -7.76516533,
+				"worldX": 5664583.5,
+				"worldY": 3572014
+			},
+			{
+				"controlPointsDistance": 281288.75,
+				"rotation": 19.4227066,
+				"worldX": 7496362,
+				"worldY": 3530155.75
+			},
+			{
+				"controlPointsDistance": 178372.109,
+				"rotation": 93.81407,
+				"worldX": 7684206.5,
+				"worldY": 4918593.5
+			},
+			{
+				"controlPointsDistance": 798988.438,
+				"rotation": -197.744675,
+				"worldX": 7436005.5,
+				"worldY": 6353751.5
+			}
+		],
+		"PathId": 2,
+		"PathName": "Ghost Ship 2",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 0,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 293244.344,
+				"rotation": 203.291977,
+				"worldX": 834618.1,
+				"worldY": 9199740
+			},
+			{
+				"controlPointsDistance": 300626.219,
+				"rotation": -30.9637566,
+				"worldX": 1094090.13,
+				"worldY": 8085003.5
+			},
+			{
+				"controlPointsDistance": 279165.344,
+				"rotation": -337.456146,
+				"worldX": 3435167,
+				"worldY": 7790451.5
+			},
+			{
+				"controlPointsDistance": 275576.25,
+				"rotation": -274.137177,
+				"worldX": 4961177.5,
+				"worldY": 8685826
+			},
+			{
+				"controlPointsDistance": 279160.156,
+				"rotation": -186.762238,
+				"worldX": 3271651.5,
+				"worldY": 9176379
+			}
+		],
+		"PathId": 3,
+		"PathName": "Trade Ship",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 0,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 585322.5,
+				"rotation": -127.515663,
+				"worldX": 6392923,
+				"worldY": 9117983
+			},
+			{
+				"controlPointsDistance": 372617.3,
+				"rotation": -62.90445,
+				"worldX": 6221461.5,
+				"worldY": 7724265
+			},
+			{
+				"controlPointsDistance": 349977.4,
+				"rotation": 19.2306747,
+				"worldX": 8923242,
+				"worldY": 7591817.5
+			},
+			{
+				"controlPointsDistance": 471149.875,
+				"rotation": 135,
+				"worldX": 9293257,
+				"worldY": 9226996
+			},
+			{
+				"controlPointsDistance": 427921.9,
+				"rotation": -190.6849,
+				"worldX": 7920955,
+				"worldY": 9086836
+			}
+		],
+		"PathId": 4,
+		"PathName": "Trade Ship 1",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 0,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 117978.016,
+				"rotation": -115.9308,
+				"worldX": 887825.6,
+				"worldY": 6322606
+			},
+			{
+				"controlPointsDistance": 679887.938,
+				"rotation": -31.1821079,
+				"worldX": 677430.438,
+				"worldY": 4819882
+			},
+			{
+				"controlPointsDistance": 269787.344,
+				"rotation": 43.8308563,
+				"worldX": 3200116.75,
+				"worldY": 4991104.5
+			},
+			{
+				"controlPointsDistance": 530610.7,
+				"rotation": -254.521362,
+				"worldX": 3862132.5,
+				"worldY": 6221381.5
+			}
+		],
+		"PathId": 5,
+		"PathName": "Trade Ship 2",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 0,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 508526.7,
+				"rotation": -114.083206,
+				"worldX": 6065887.5,
+				"worldY": 6330393
+			},
+			{
+				"controlPointsDistance": 229009.25,
+				"rotation": -37.8019943,
+				"worldX": 6525136,
+				"worldY": 4671936.5
+			},
+			{
+				"controlPointsDistance": 517976.4,
+				"rotation": 41.34778,
+				"worldX": 8728573,
+				"worldY": 4765295
+			},
+			{
+				"controlPointsDistance": 347296.6,
+				"rotation": 126.73909,
+				"worldX": 8826067,
+				"worldY": 6182447.5
+			},
+			{
+				"controlPointsDistance": 353976.375,
+				"rotation": -182.726318,
+				"worldX": 7718505.5,
+				"worldY": 6221380.5
+			}
+		],
+		"PathId": 6,
+		"PathName": "Trade Ship 4",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 0,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 387308.938,
+				"rotation": -127.122375,
+				"worldX": 591936.7,
+				"worldY": 3558377.5
+			},
+			{
+				"controlPointsDistance": 593466.6,
+				"rotation": -28.1516342,
+				"worldX": 802015.3,
+				"worldY": 1977786.38
+			},
+			{
+				"controlPointsDistance": 461204.969,
+				"rotation": -306.642639,
+				"worldX": 3075533,
+				"worldY": 2320316
+			},
+			{
+				"controlPointsDistance": 811069.9,
+				"rotation": 3.333847,
+				"worldX": 3971144.5,
+				"worldY": 2865374.75
+			},
+			{
+				"controlPointsDistance": 84104.375,
+				"rotation": 156.614777,
+				"worldX": 4450096.5,
+				"worldY": 3702428.25
+			}
+		],
+		"PathId": 7,
+		"PathName": "Trade Ship 5",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 0,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 397842.656,
+				"rotation": -130.971741,
+				"worldX": 6143752.5,
+				"worldY": 3519444.75
+			},
+			{
+				"controlPointsDistance": 445945.563,
+				"rotation": -45.0885544,
+				"worldX": 6743159,
+				"worldY": 2110158.25
+			},
+			{
+				"controlPointsDistance": 358695.5,
+				"rotation": 48.7313957,
+				"worldX": 8666281,
+				"worldY": 2149012.5
+			},
+			{
+				"controlPointsDistance": 609481.938,
+				"rotation": 124.463188,
+				"worldX": 8662550,
+				"worldY": 3332568.5
+			}
+		],
+		"PathId": 8,
+		"PathName": "Trade Ship 6",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 0,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 705151.2,
+				"rotation": -139.500885,
+				"worldX": 3957027.5,
+				"worldY": 1918010.25
+			},
+			{
+				"controlPointsDistance": 386908.125,
+				"rotation": -31.1389732,
+				"worldX": 3341733.5,
+				"worldY": 526890.7
+			},
+			{
+				"controlPointsDistance": 385078.375,
+				"rotation": 27.5972977,
+				"worldX": 7909687,
+				"worldY": 814914.063
+			},
+			{
+				"controlPointsDistance": 627279.438,
+				"rotation": -209.744888,
+				"worldX": 7183100.5,
+				"worldY": 2125651.75
+			},
+			{
+				"controlPointsDistance": 336161.7,
+				"rotation": -181.301956,
+				"worldX": 5542811,
+				"worldY": 2049083.63
+			}
+		],
+		"PathId": 9,
+		"PathName": "Trade Ship 7",
+		"autoSpawn": true,
+		"isLooping": false
+	}
+]
