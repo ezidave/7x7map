@@ -1,14 +1,74 @@
 {
     "Loot": {
         "DinoDropInventoryComponent_BP_Base_C": null,
+        "DinoDropInventoryComponent_Basilo_C": null,
+        "DinoDropInventoryComponent_Basilo_PLM_C": null,
+        "DinoDropInventoryComponent_BossSpider_Easy_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Gamma Broodmother Trophy"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_BossSpider_Hard_PLM_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Alpha Broodmother Trophy"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Carnivore_AlphaTusoteuthis_PLM_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Squid Tentacle"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 100.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 100.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "DinoDropInventoryComponent_Carnivore_Huge_C": null,
+        "DinoDropInventoryComponent_Carnivore_Huge_FireWyvern_C": null,
         "DinoDropInventoryComponent_Carnivore_Huge_Mega_C": null,
         "DinoDropInventoryComponent_Carnivore_Huge_Yuty_C": null,
+        "DinoDropInventoryComponent_Carnivore_Large_Argentavis_C": null,
         "DinoDropInventoryComponent_Carnivore_Large_Boa_C": null,
+        "DinoDropInventoryComponent_Carnivore_Large_C": null,
         "DinoDropInventoryComponent_Carnivore_Large_Sarco_C": null,
         "DinoDropInventoryComponent_Carnivore_Medium_C": null,
+        "DinoDropInventoryComponent_Carnivore_Medium_Thylaco_C": null,
+        "DinoDropInventoryComponent_Carnivore_Medium_Thylaco_PLM_C": null,
         "DinoDropInventoryComponent_Carnivore_Small_C": null,
         "DinoDropInventoryComponent_Carnivore_Small_Mermaid_C": null,
+        "DinoDropInventoryComponent_Carnivore_Small_Otter_C": null,
+        "DinoDropInventoryComponent_Carnivore_Small_Otter_PLM_C": null,
         "DinoDropInventoryComponent_Carnivore_Tusoteuthis_C": [
             {
                 "ChanceForBlueprint": 0.0,
@@ -65,6 +125,23 @@
                 "ForceBlueprint": 0,
                 "Items": [
                     "Gold Coin"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Gold_GiantSquidTrench_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Squid Tentacle"
                 ],
                 "MaxQuality": 1.0,
                 "MaxQuantity": 1.0,
@@ -192,7 +269,112 @@
                 "Weight": 1.0
             }
         ],
+        "DinoDropInventoryComponent_Loot_Megalodon_PLM_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 10.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Medium Wood Plank",
+                    "Large Wood Plank",
+                    "Medium Wood Gunport",
+                    "Large Wood Gunport",
+                    "Large Speed Sail",
+                    "Large Handling Sail",
+                    "Medium Wood Ship Deck",
+                    "Large Wood Ship Deck",
+                    "Medium Handling Sail",
+                    "Large Weight Sail"
+                ],
+                "MaxQuality": 16.0,
+                "MaxQuantity": 6.0,
+                "MinQuality": 6.0,
+                "MinQuantity": 2.0,
+                "QualityPower": 2.5,
+                "QuantityPower": 2.0,
+                "Weight": 2.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Gold Coin"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 2.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Gold Coin"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Gold Coin"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "DinoDropInventoryComponent_MythicalBase_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_Buwaya_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_CrystalScorpion_C": [
             {
                 "ChanceForBlueprint": 0.0,
                 "ChanceForItem": 1.0,
@@ -227,6 +409,40 @@
             }
         ],
         "DinoDropInventoryComponent_Mythical_Dragon_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_Eber_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_FireElementalBoss_C": [
             {
                 "ChanceForBlueprint": 0.0,
                 "ChanceForItem": 1.0,
@@ -294,7 +510,93 @@
                 "Weight": 1.0
             }
         ],
+        "DinoDropInventoryComponent_Mythical_Kekada_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_Razorthooth_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_RockElementalBoss_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "DinoDropInventoryComponent_Mythical_RockElemental_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_RockElemental_PLM_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos",
+                    "Sulfurized Rock"
+                ],
+                "MaxQuality": 0.0,
+                "MaxQuantity": 2000.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 2000.0,
+                "QualityPower": 0.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_Sentinel_C": [
             {
                 "ChanceForBlueprint": 0.0,
                 "ChanceForItem": 1.0,
@@ -570,7 +872,48 @@
                 "Weight": 1.0
             }
         ],
+        "DinoDropInventoryComponent_Mythical_Snowman_Hard_PLM_C": [
+            {
+                "ChanceForBlueprint": 0.5,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos",
+                    "Sword",
+                    "Gorilla Statue",
+                    "Fur Boots",
+                    "Fur Gauntlets",
+                    "Fur Cap",
+                    "Fur Leggings",
+                    "Fur Chestpiece"
+                ],
+                "MaxQuality": 6.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 2.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 2.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "DinoDropInventoryComponent_Mythical_Yeti_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_Yeti_PLM_C": [
             {
                 "ChanceForBlueprint": 0.0,
                 "ChanceForItem": 1.0,
@@ -598,6 +941,57 @@
                 "MaxQuality": 1.0,
                 "MaxQuantity": 1.0,
                 "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Rhino_PLM_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Rhino Horn"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Turkey_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Wishbone"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 2.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 2.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoTamedInventoryComponent_Gorilla_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 1.0,
                 "MinQuantity": 1.0,
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
@@ -966,6 +1360,40 @@
                 "MaxQuantity": 4.0,
                 "MinQuality": 1.0,
                 "MinQuantity": 3.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_BeaverDam_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Sticks"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_BeaverDam_PLM_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 100.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Sticks"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 500.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 100.0,
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
                 "Weight": 1.0
@@ -1479,11 +1907,69 @@
                 "Weight": 1.0
             }
         ],
+        "LootItemSet_FloatsamT1_Foods_PLM_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 5242974,
+                "Items": [
+                    "Salted Fish",
+                    "Salted Meat",
+                    "Ale",
+                    "Berry Tea",
+                    "Cooked Fish",
+                    "Cooked Meat",
+                    "Acai",
+                    "Blackberry",
+                    "Sea Grapes",
+                    "Potato",
+                    "Onion",
+                    "Coffee",
+                    "Coffee Seed"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 3.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "LootItemSet_FloatsamT1_Foods_Shipwreck_C": [
             {
                 "ChanceForBlueprint": 0.0,
                 "ChanceForItem": 1.0,
                 "ForceBlueprint": 0,
+                "Items": [
+                    "Salted Fish",
+                    "Salted Meat",
+                    "Ale",
+                    "Berry Tea",
+                    "Cooked Fish",
+                    "Cooked Meat",
+                    "Acai",
+                    "Blackberry",
+                    "Sea Grapes",
+                    "Potato",
+                    "Onion",
+                    "Coffee",
+                    "Coffee Seed"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 3.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_FloatsamT1_Foods_Shipwreck_PLM_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 6488164,
                 "Items": [
                     "Salted Fish",
                     "Salted Meat",
@@ -1719,6 +2205,63 @@
                 "Weight": 1.0
             }
         ],
+        "LootItemSet_Kraken_PLM_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 0.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Large Speed Sail",
+                    "Large Handling Sail",
+                    "Large Wood Ship Deck",
+                    "Large Wood Plank",
+                    "Large Wood Gunport",
+                    "Wood Ceiling"
+                ],
+                "MaxQuality": 6.0,
+                "MaxQuantity": 14.0,
+                "MinQuality": 2.0,
+                "MinQuantity": 8.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Large Speed Sail",
+                    "Large Handling Sail",
+                    "Large Wood Ship Deck",
+                    "Large Wood Plank",
+                    "Large Wood Gunport",
+                    "Wood Ceiling"
+                ],
+                "MaxQuality": 18.0,
+                "MaxQuantity": 20.0,
+                "MinQuality": 8.0,
+                "MinQuantity": 12.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.5
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 20.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mech Monkey Armor Skin"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "LootItemSet_LandAndDefensiveStructures_C": [
             {
                 "ChanceForBlueprint": 1.0,
@@ -1859,6 +2402,68 @@
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
                 "Weight": 1.0
+            }
+        ],
+        "LootItemSet_LandAndDefensiveStructures_PLM_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Wood Floor",
+                    "Wood Wall",
+                    "Wood Ceiling",
+                    "Wood Roof",
+                    "Wood Door",
+                    "Wood Pillar",
+                    "Ship Ammunition Container",
+                    "Wood Gun Mount",
+                    "Dinghy Ship Hangar",
+                    "Ship Resources Box",
+                    "Food Larder",
+                    "Diving Attachment",
+                    "Ship Cargo Rack",
+                    "Farmhouse Potato Land",
+                    "Ship Cargo Rack Large",
+                    "Ship Tame Rack NEW"
+                ],
+                "MaxQuality": 0.800000011920929,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.20000000298023224,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 2.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Wood Floor",
+                    "Wood Wall",
+                    "Wood Ceiling",
+                    "Wood Roof",
+                    "Wood Door",
+                    "Wood Pillar",
+                    "Ship Ammunition Container",
+                    "Wood Gun Mount",
+                    "Dinghy Ship Hangar",
+                    "Ship Resources Box",
+                    "Food Larder",
+                    "Diving Attachment",
+                    "Ship Cargo Rack",
+                    "Farmhouse Potato Land",
+                    "Ship Cargo Rack Large",
+                    "Ship Tame Rack NEW"
+                ],
+                "MaxQuality": 1.2000000476837158,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.800000011920929,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 3.0
             }
         ],
         "LootItemSet_LandAndDefensiveStructures_Shipwreck_C": [
@@ -2027,6 +2632,82 @@
                 "Weight": 0.20000000298023224
             }
         ],
+        "LootItemSet_LandAndDefensiveStructures_Shipwreck_PLM_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Wood Floor",
+                    "Wood Wall",
+                    "Wood Ceiling",
+                    "Wood Roof",
+                    "Wood Door",
+                    "Wood Pillar",
+                    "Ship Ammunition Container",
+                    "Wood Gun Mount",
+                    "Medium Wood Ship Deck",
+                    "Large Wood Ship Deck",
+                    "Medium Wood Gunport",
+                    "Large Wood Gunport",
+                    "Ship Cannon",
+                    "Large Cannon",
+                    "Dinghy Ship Hangar",
+                    "Ship Resources Box",
+                    "Food Larder",
+                    "Diving Attachment",
+                    "Ship Cargo Rack",
+                    "Farmhouse Potato Land",
+                    "Ship Cargo Rack Large",
+                    "Picka Swivel",
+                    "Ship Tame Rack NEW"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 0.699999988079071,
+                "MinQuantity": 2.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 2.0,
+                "Weight": 2.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Wood Floor",
+                    "Wood Wall",
+                    "Wood Ceiling",
+                    "Wood Roof",
+                    "Wood Door",
+                    "Wood Pillar",
+                    "Ship Ammunition Container",
+                    "Wood Gun Mount",
+                    "Medium Wood Ship Deck",
+                    "Large Wood Ship Deck",
+                    "Medium Wood Gunport",
+                    "Large Wood Gunport",
+                    "Ship Cannon",
+                    "Large Cannon",
+                    "Puckle",
+                    "Dinghy Ship Hangar",
+                    "Ship Resources Box",
+                    "Food Larder",
+                    "Diving Attachment",
+                    "Ship Cargo Rack",
+                    "Farmhouse Potato Land",
+                    "Ship Cargo Rack Large",
+                    "Picka Swivel"
+                ],
+                "MaxQuality": 2.0,
+                "MaxQuantity": 2.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 2.0,
+                "Weight": 3.0
+            }
+        ],
         "LootItemSet_MawWaters_C": [
             {
                 "ChanceForBlueprint": 0.0,
@@ -2078,6 +2759,31 @@
                 "Weight": 1.0
             }
         ],
+        "LootItemSet_Music_PLM_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Accordion: A Mockatoo Once Told Me",
+                    "Accordion: A Mockatoo Once Told Me",
+                    "Accordion: A Mockatoo Once Told Me",
+                    "Accordion: Of Sea and Sails",
+                    "Accordion: Of Sea and Sails",
+                    "Accordion: Of Sea and Sails",
+                    "Accordion: She Heard the Siren's Call",
+                    "Accordion: She Heard the Siren's Call",
+                    "Accordion: She Heard the Siren's Call"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "LootItemSet_Music_Shipwreck_C": [
             {
                 "ChanceForBlueprint": 0.0,
@@ -2102,6 +2808,31 @@
                     "War Drums: Hold Fast Ye Dogs",
                     "War Drums: Hold Fast Ye Dogs",
                     "War Drums: Hold Fast Ye Dogs"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_Music_Shipwreck_PLM_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Accordion: A Mockatoo Once Told Me",
+                    "Accordion: A Mockatoo Once Told Me",
+                    "Accordion: A Mockatoo Once Told Me",
+                    "Accordion: Of Sea and Sails",
+                    "Accordion: Of Sea and Sails",
+                    "Accordion: Of Sea and Sails",
+                    "Accordion: She Heard the Siren's Call",
+                    "Accordion: She Heard the Siren's Call",
+                    "Accordion: She Heard the Siren's Call"
                 ],
                 "MaxQuality": 1.0,
                 "MaxQuantity": 1.0,
@@ -2185,6 +2916,44 @@
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
                 "Weight": 1.0
+            }
+        ],
+        "LootItemSet_OffensiveStructures_Brigantine_PLM_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Swivel Gun",
+                    "Ship Cannon",
+                    "Large Cannon",
+                    "Ballista Turret"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.4000000059604645,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Swivel Gun",
+                    "Ship Cannon",
+                    "Large Cannon",
+                    "Ballista Turret"
+                ],
+                "MaxQuality": 1.2000000476837158,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 2.0
             }
         ],
         "LootItemSet_OffensiveStructures_C": [
@@ -2327,6 +3096,44 @@
                 "Weight": 1.0
             }
         ],
+        "LootItemSet_OffensiveStructures_Galleon_PLM_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Swivel Gun",
+                    "Ship Cannon",
+                    "Large Cannon",
+                    "Ballista Turret"
+                ],
+                "MaxQuality": 2.0,
+                "MaxQuantity": 3.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Swivel Gun",
+                    "Ship Cannon",
+                    "Large Cannon",
+                    "Ballista Turret"
+                ],
+                "MaxQuality": 4.0,
+                "MaxQuantity": 3.0,
+                "MinQuality": 3.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 2.0
+            }
+        ],
         "LootItemSet_OffensiveStructures_Schooner_C": [
             {
                 "ChanceForBlueprint": 1.0,
@@ -2380,6 +3187,42 @@
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
                 "Weight": 1.0
+            }
+        ],
+        "LootItemSet_OffensiveStructures_Schooner_PLM_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Swivel Gun",
+                    "Ship Cannon",
+                    "Ballista Turret"
+                ],
+                "MaxQuality": 0.4000000059604645,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.20000000298023224,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Swivel Gun",
+                    "Ship Cannon",
+                    "Ballista Turret"
+                ],
+                "MaxQuality": 0.800000011920929,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.4000000059604645,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 2.0
             }
         ],
         "LootItemSet_ShipStructures_Brigantine_C": [
@@ -2442,6 +3285,70 @@
                 "MaxQuantity": 1.0,
                 "MinQuality": 0.4000000059604645,
                 "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_ShipStructures_Brigantine_PLM_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Large Speed Sail",
+                    "Medium Speed Sail",
+                    "Large Handling Sail",
+                    "Medium Handling Sail",
+                    "Large Weight Sail",
+                    "Medium Weight Sail",
+                    "Medium Wood Ship Deck",
+                    "Large Wood Ship Deck",
+                    "Large Wood Plank",
+                    "Large Wood Gunport",
+                    "Wood Ceiling",
+                    "Medium Wood Plank",
+                    "Large Potato Land Handling Sail",
+                    "Large Potato Land Speed Sail",
+                    "Medium Potato Land Handling Sail",
+                    "Medium Potato Land Speed Sail",
+                    "Wood Wall",
+                    "Wood Roof"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 3.0,
+                "MinQuality": 0.4000000059604645,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Large Speed Sail",
+                    "Medium Speed Sail",
+                    "Large Handling Sail",
+                    "Medium Handling Sail",
+                    "Large Weight Sail",
+                    "Medium Weight Sail",
+                    "Large Wood Ship Deck",
+                    "Large Wood Plank",
+                    "Large Wood Gunport",
+                    "Wood Ceiling",
+                    "Large Potato Land Handling Sail",
+                    "Large Potato Land Speed Sail",
+                    "Medium Potato Land Handling Sail",
+                    "Medium Potato Land Speed Sail",
+                    "Wood Wall",
+                    "Wood Roof"
+                ],
+                "MaxQuality": 1.2000000476837158,
+                "MaxQuantity": 6.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 3.0,
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
                 "Weight": 1.0
@@ -2560,6 +3467,62 @@
                 "Weight": 1.0
             }
         ],
+        "LootItemSet_ShipStructures_Galleon_PLM_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Large Speed Sail",
+                    "Large Handling Sail",
+                    "Large Weight Sail",
+                    "Large Wood Ship Deck",
+                    "Large Wood Plank",
+                    "Large Wood Gunport",
+                    "Wood Ceiling",
+                    "Large Potato Land Handling Sail",
+                    "Large Potato Land Speed Sail",
+                    "Medium Potato Land Handling Sail",
+                    "Medium Potato Land Speed Sail",
+                    "Wood Wall",
+                    "Wood Roof"
+                ],
+                "MaxQuality": 2.0,
+                "MaxQuantity": 3.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.800000011920929
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Large Speed Sail",
+                    "Large Handling Sail",
+                    "Large Weight Sail",
+                    "Large Wood Ship Deck",
+                    "Large Wood Plank",
+                    "Large Wood Gunport",
+                    "Wood Ceiling",
+                    "Large Potato Land Handling Sail",
+                    "Large Potato Land Speed Sail",
+                    "Medium Potato Land Handling Sail",
+                    "Medium Potato Land Speed Sail",
+                    "Wood Wall",
+                    "Wood Roof"
+                ],
+                "MaxQuality": 8.0,
+                "MaxQuantity": 3.0,
+                "MinQuality": 4.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 3.0,
+                "Weight": 1.0
+            }
+        ],
         "LootItemSet_ShipStructures_Schooner_C": [
             {
                 "ChanceForBlueprint": 1.0,
@@ -2608,6 +3571,68 @@
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
                 "Weight": 1.0
+            }
+        ],
+        "LootItemSet_ShipStructures_Schooner_PLM_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Medium Speed Sail",
+                    "Small Speed Sail",
+                    "Medium Handling Sail",
+                    "Small Handling Sail",
+                    "Medium Weight Sail",
+                    "Small Weight Sail",
+                    "Medium Wood Ship Deck",
+                    "Medium Wood Plank",
+                    "Medium Wood Gunport",
+                    "Wood Ceiling",
+                    "Wood Wall",
+                    "Medium Potato Land Handling Sail",
+                    "Medium Potato Land Speed Sail",
+                    "Small Potato Land Handling Sail",
+                    "Small Potato Land Speed Sail",
+                    "Wood Roof"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.4000000059604645,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Medium Speed Sail",
+                    "Small Speed Sail",
+                    "Medium Handling Sail",
+                    "Small Handling Sail",
+                    "Medium Weight Sail",
+                    "Small Weight Sail",
+                    "Medium Wood Ship Deck",
+                    "Medium Wood Plank",
+                    "Medium Wood Gunport",
+                    "Wood Ceiling",
+                    "Medium Potato Land Handling Sail",
+                    "Medium Potato Land Speed Sail",
+                    "Small Potato Land Handling Sail",
+                    "Small Potato Land Speed Sail",
+                    "Wood Wall",
+                    "Wood Roof"
+                ],
+                "MaxQuality": 1.2000000476837158,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 2.0
             }
         ],
         "LootItemSet_Survivor_C": null,
@@ -2742,7 +3767,158 @@
                 "Weight": 1.0
             }
         ],
+        "LootItemSet_TreasureUsableItems_PLM_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Cloth Shirt",
+                    "Cloth Pants",
+                    "Cloth Gloves",
+                    "Cloth Boots",
+                    "Cloth Hat",
+                    "Sword",
+                    "Grappling Hook",
+                    "Flintlock",
+                    "Shovel",
+                    "Repair Hammer",
+                    "Plate Boots",
+                    "Plate Gloves",
+                    "Plate Helmet",
+                    "Plate Pants",
+                    "Plate Shirt",
+                    "Hide Boots",
+                    "Hide Gloves",
+                    "Hide Hat",
+                    "Hide Pants",
+                    "Hide Shirt",
+                    "Fur Boots",
+                    "Fur Gauntlets",
+                    "Fur Cap",
+                    "Fur Leggings",
+                    "Fur Chestpiece",
+                    "Two-Handed Mace",
+                    "Bow",
+                    "Blunderbuss",
+                    "Carbine",
+                    "Pike",
+                    "Large Wood Plank",
+                    "Crossbow",
+                    "Spear Launcher",
+                    "Hydra Revolver",
+                    "Medium Wood Ship Deck",
+                    "Large Wood Ship Deck",
+                    "Medium Wood Plank",
+                    "Ship Cannon",
+                    "Climbing Pick Potato Land",
+                    "Grappling Hook Potato Land",
+                    "Metal Hatchet Potato Land",
+                    "Metal Pick Potato Land",
+                    "Shovel Potato Land",
+                    "Metal Sickle Potato Land",
+                    "Sword of the Potato"
+                ],
+                "MaxQuality": 0.4000000059604645,
+                "MaxQuantity": 8.0,
+                "MinQuality": 0.10000000149011612,
+                "MinQuantity": 4.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.5,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Cloth Shirt",
+                    "Cloth Pants",
+                    "Cloth Gloves",
+                    "Cloth Boots",
+                    "Cloth Hat",
+                    "Sword",
+                    "Grappling Hook",
+                    "Flintlock",
+                    "Shovel",
+                    "Repair Hammer",
+                    "Plate Boots",
+                    "Plate Gloves",
+                    "Plate Helmet",
+                    "Plate Pants",
+                    "Plate Shirt",
+                    "Hide Boots",
+                    "Hide Gloves",
+                    "Hide Hat",
+                    "Hide Pants",
+                    "Hide Shirt",
+                    "Fur Boots",
+                    "Fur Gauntlets",
+                    "Fur Cap",
+                    "Fur Leggings",
+                    "Fur Chestpiece",
+                    "Two-Handed Mace",
+                    "Bow",
+                    "Blunderbuss",
+                    "Carbine",
+                    "Pike",
+                    "Large Wood Plank",
+                    "Crossbow",
+                    "Spear Launcher",
+                    "Hydra Revolver",
+                    "Medium Wood Ship Deck",
+                    "Large Wood Ship Deck",
+                    "Climbing Pick Potato Land",
+                    "Grappling Hook Potato Land",
+                    "Metal Hatchet Potato Land",
+                    "Metal Pick Potato Land",
+                    "Shovel Potato Land",
+                    "Metal Sickle Potato Land",
+                    "Sword of the Potato",
+                    "Medium Wood Plank",
+                    "Large Wood Plank",
+                    "Picka Swivel"
+                ],
+                "MaxQuality": 0.8999999761581421,
+                "MaxQuantity": 8.0,
+                "MinQuality": 0.5,
+                "MinQuantity": 4.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.5,
+                "Weight": 2.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 100.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Large Shipyard",
+                    "Small Shipyard"
+                ],
+                "MaxQuality": 2.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.5,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.10000000149011612
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 100.0,
+                "ForceBlueprint": 1,
+                "MaxQuality": 2.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.5,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.10000000149011612
+            }
+        ],
         "PrimalInventoryBP_BaseMeatFishing_C": null,
+        "PrimalInventoryBP_BeaverDam_C": null,
+        "PrimalInventoryBP_BeaverDam_C_0": null,
         "PrimalInventoryBP_Encampment_Consumables_C": null,
         "PrimalInventoryBP_Encampment_Usables_C": null,
         "PrimalInventoryBP_GenericFishing_C": null,

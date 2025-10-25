@@ -403,16 +403,8 @@
 			-1,
 			-1
 		],
-		"animals": [
-			"ShipNPC Brig",
-			"ShipNPC Galleon",
-			"ShipNPC Schooner"
-		],
-		"biomes": [
-			"Western Tropical",
-			"Tropical Ocean Water",
-			"Tropical At Land"
-		],
+		"animals": [],
+		"biomes": [],
 		"flotsam": {
 			"qualityMultiplier": 2,
 			"spawnLimits": [
@@ -533,8 +525,8 @@
 			"Slate",
 			"Syrup"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,ChanceForFog,DisableClaimFlags,NPCShipDifficultyMult,NPCShipDi0fficultyLerp,NPCShipNumMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.5,2,2,0.2,1,3,3,3,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",RainIntervalMultiplier,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,ChanceForFog,DisableClaimFlags,NPCShipDifficultyMult,NPCShipDi0fficultyLerp,NPCShipNumMult,bDontRequireClaimFlagsForBuilding,bDisableBuild,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.5,2,2,0.2,1,3,3,3,False,True,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -632,7 +624,6 @@
 			"Syrup",
 			"Tellurite",
 			"Tin",
-			"Wild Carrot",
 			"Wild Onion",
 			"Wild Pepper"
 		],
@@ -1096,6 +1087,9 @@
 			"Scorpion",
 			"Seagull",
 			"Sheep",
+			"ShipNPC Brig",
+			"ShipNPC Galleon",
+			"ShipNPC Schooner",
 			"Spider",
 			"Tiger",
 			"Turtle",
@@ -1317,7 +1311,6 @@
 		],
 		"animals": [
 			"Ant",
-			"Catfish",
 			"Chicken",
 			"Cobra",
 			"Cow",
@@ -1357,28 +1350,15 @@
 			"Acerola",
 			"Aloe",
 			"Ash",
-			"Basalt",
-			"Calcite",
-			"Chalcedony",
 			"Chert",
 			"Cilantro",
 			"Coconut",
-			"Copper",
 			"Elderberry",
-			"Emerald",
-			"FreshWater",
 			"Fronds",
-			"Garnet",
-			"Granite",
-			"Graphite",
 			"Hemp",
-			"Herkimer",
 			"Honey",
-			"Iridium",
 			"Iron",
-			"Lignite",
 			"Lime",
-			"Limestone",
 			"Maps",
 			"Marble",
 			"Nitre",
@@ -1388,7 +1368,6 @@
 			"Reeds",
 			"Rushes",
 			"Shale Oil",
-			"Sugars",
 			"Wild Beans",
 			"Wild Rice"
 		],
@@ -1619,11 +1598,12 @@
 			"Marble",
 			"Mineral Oil",
 			"Oak",
+			"Orichalcum",
 			"Sea Grapes",
 			"Seaweed"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDi0fficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,DisableClaimFlags,RainIntervalMultiplier,TreasureBottlesEnabled,DisableFog,SunkenTreasureQualityMultiplier,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",3,3,3,4,1,1.6,0,0,2,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDi0fficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,DisableClaimFlags,RainIntervalMultiplier,TreasureBottlesEnabled,DisableFog,SunkenTreasureQualityMultiplier,bDontRequireClaimFlagsForBuilding,bDisableBuild,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",3,3,3,4,1,1.6,0,0,2,False,True,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -1666,8 +1646,6 @@
 		"animals": [
 			"Ant",
 			"Cat",
-			"Catfish",
-			"Chicken",
 			"Cobra",
 			"Cow",
 			"Crocodile",
@@ -1676,10 +1654,8 @@
 			"Giraffe",
 			"Horse",
 			"Lion",
-			"Monkey",
 			"Olfend",
 			"Ostrich",
-			"Rabbit",
 			"Rattlesnake",
 			"Rhino",
 			"Scorpion",
@@ -1736,7 +1712,6 @@
 			"Poplar",
 			"Resin",
 			"Rock Salt",
-			"Roots",
 			"Rushes",
 			"Salt",
 			"Schisandra",
@@ -1862,8 +1837,8 @@
 			"Sugars",
 			"Twigs"
 		],
-		"serverCustomDatas1": ",ChanceForCold,DisableClaimFlags,DisableFog,DisableRain,FloatsamQualityMultiplier,NPCShipDi0fficultyLerp,NPCShipDifficultyMult,NPCShipNumMult,SunkenTreasureQua,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",0,1,1,1,2,3,3,3,2,1,1,0,1.4,0.33,1.4",
+		"serverCustomDatas1": ",ChanceForCold,DisableClaimFlags,DisableFog,DisableRain,FloatsamQualityMultiplier,NPCShipDi0fficultyLerp,NPCShipDifficultyMult,NPCShipNumMult,SunkenTreasureQua,bDisableBuild,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",0,1,1,1,2,3,3,3,2,True,1,1,0,1.4,0.33,1.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "High Desert",
 		"sotd": {
@@ -1952,10 +1927,8 @@
 			"Aloe",
 			"Basalt",
 			"Basil",
-			"Chert",
 			"Cobalt",
 			"Cocoa",
-			"Coquina",
 			"FreshWater",
 			"Fronds",
 			"Granite",
@@ -2189,7 +2162,6 @@
 			"Ant",
 			"Bat",
 			"Bear",
-			"Catfish",
 			"Chicken",
 			"Cobra",
 			"Cow",
@@ -2197,7 +2169,6 @@
 			"Crow",
 			"Elephant",
 			"Giraffe",
-			"Grand Tortugar",
 			"Horse",
 			"Monkey",
 			"Parrot",
@@ -2226,18 +2197,15 @@
 			]
 		},
 		"forceServerRules": 3,
-		"name": "Equatorial RP -PvP",
+		"name": "Equatorial",
 		"region": "",
 		"resources": [
 			"Acerola",
 			"Aloe",
 			"Basalt",
-			"Basil",
-			"Chert",
 			"Cobalt",
 			"Cocoa",
 			"Coconut",
-			"Coquina",
 			"FreshWater",
 			"Fronds",
 			"Granite",
@@ -2533,11 +2501,7 @@
 			-1,
 			-1
 		],
-		"animals": [
-			"ShipNPC Brig",
-			"ShipNPC Galleon",
-			"ShipNPC Schooner"
-		],
+		"animals": [],
 		"biomes": [
 			"Eastern Tropical",
 			"Tropical Ocean Water",
@@ -2555,14 +2519,14 @@
 		"name": "Eastern Tropical",
 		"region": "",
 		"resources": [],
-		"serverCustomDatas1": ",ChanceForCold,RainIntervalMultiplier,DisableFog,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,NPCShipNumMult,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.2,1,2,2,0,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",ChanceForCold,RainIntervalMultiplier,DisableFog,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,NPCShipNumMult,DisableClaimFlags,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.2,1,2,2,0,1,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
-			"levelLerp": 0.4000000059604645,
+			"levelLerp": 1.100000023841858,
 			"levelMinOveride": 0,
-			"levelMultiplier": 1.100000023841858,
+			"levelMultiplier": 0,
 			"levelOffset": 0,
 			"spawnLimits": [
 				0,
@@ -2671,8 +2635,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,ChanceForFog,DisableClaimFlags,NPCShipDifficultyMult,NPCShipDi0fficultyLerp,NPCShipNumMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1..5,2,2,0.4,1,3,3,3,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",RainIntervalMultiplier,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,ChanceForFog,DisableClaimFlags,NPCShipDifficultyMult,NPCShipDi0fficultyLerp,NPCShipNumMult,bDontRequireClaimFlagsForBuilding,bDisableBuild,bDisableBuild,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1..5,2,2,0.4,1,3,3,3,False,True,True,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -2834,7 +2798,7 @@
 			]
 		},
 		"forceServerRules": 3,
-		"name": "Tropical RP - PvP",
+		"name": "Tropical",
 		"region": "",
 		"resources": [],
 		"serverCustomDatas1": ",ChanceForCold,RainIntervalMultiplier,DisableFog,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,NPCShipNumMult,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
@@ -2954,8 +2918,8 @@
 			"Silk",
 			"Turmeric"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipNumMult,DisableClaimFlags,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.5,2,2,1,1,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipNumMult,DisableClaimFlags,bDontRequireClaimFlagsForBuilding,bDisableBuild,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.5,2,2,1,1,False,True,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -3187,6 +3151,7 @@
 			"Marble",
 			"Mineral Oil",
 			"Oak",
+			"Orichalcum",
 			"Radiolarite",
 			"Reeds",
 			"Roots",
@@ -3195,8 +3160,8 @@
 			"Silver",
 			"Sugars"
 		],
-		"serverCustomDatas1": ",ChanceForCold,RainIntervalMultiplier,DisableFog,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,DisableClaimFlags,NPCShipDifficultyMult,NPCShipNumMult,NPCShipDi0fficultyLerp,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.2,1,2,2,1,3,3,3,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",ChanceForCold,RainIntervalMultiplier,DisableFog,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,DisableClaimFlags,NPCShipDifficultyMult,NPCShipNumMult,NPCShipDi0fficultyLerp,bDontRequireClaimFlagsForBuilding,bDisableBuild,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.2,1,2,2,1,3,3,3,False,True,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -3239,10 +3204,8 @@
 		"animals": [
 			"Bear",
 			"Bee",
-			"Catfish",
 			"Chicken",
 			"Cobra",
-			"Cod",
 			"Cow",
 			"Crow",
 			"Horse",
@@ -3252,6 +3215,9 @@
 			"Rattlesnake",
 			"Seagull",
 			"Sheep",
+			"ShipNPC Brig",
+			"ShipNPC Galleon",
+			"ShipNPC Schooner",
 			"Wolf"
 		],
 		"biomes": [
@@ -3271,10 +3237,8 @@
 		"name": "Western Temperate",
 		"region": "",
 		"resources": [
-			"Celery",
 			"Chamomile",
 			"Chert",
-			"FreshWater",
 			"Fronds",
 			"Hemp",
 			"Iron",
@@ -3506,32 +3470,20 @@
 			-1
 		],
 		"animals": [
-			"Bear",
-			"Bee",
-			"Catfish",
 			"Chicken",
 			"Cobra",
-			"Cod",
-			"Cow",
 			"Crocodile",
-			"Crow",
 			"Elephant",
-			"Horse",
-			"Lion",
 			"Monkey",
 			"Parrot",
 			"Pig",
-			"Rabbit",
 			"Rattlesnake",
 			"Seagull",
-			"Sheep",
 			"Tiger",
-			"Turtle",
-			"Wolf"
+			"Turtle"
 		],
 		"biomes": [
 			"Eastern Temperate",
-			"Western Temperate",
 			"Western Tropics",
 			"Temperate At Land",
 			"Temperate Ocean Water"
@@ -3545,16 +3497,14 @@
 			]
 		},
 		"forceServerRules": 3,
-		"name": "Temperate RP - PvP",
+		"name": "Temperate",
 		"region": "",
 		"resources": [
 			"Acai",
 			"Acerola",
 			"Aloe",
 			"Ash",
-			"Celery",
 			"Chalcedony",
-			"Chamomile",
 			"Cilantro",
 			"FreshWater",
 			"Fronds",
@@ -3565,26 +3515,11 @@
 			"Lignite",
 			"Limestone",
 			"Maps",
-			"Mint",
 			"Oak",
-			"Oregano",
-			"Pine",
-			"Radiolarite",
 			"Reeds",
 			"Rushes",
-			"Schisandra",
-			"Slate",
-			"Strawberry",
 			"Sugars",
-			"Sulfur",
-			"Sunstone",
-			"Syrup",
-			"Tellurite",
-			"Tin",
-			"Wild Beans",
-			"Wild Carrot",
-			"Wild Onion",
-			"Wild Pepper"
+			"Wild Beans"
 		],
 		"serverCustomDatas1": ",RainIntervalMultiplier,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipNumMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
 		"serverCustomDatas2": ",1.5,2,2,0.5,0.5,0.5,0.5,0",
@@ -3990,8 +3925,8 @@
 			"Silver",
 			"Wild Potato"
 		],
-		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,DisableClaimFlags,NPCShipDifficultyMult,NPCShipDi0fficultyLerp,NPCShipNumMult,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1,1,3,3,1,3,3,3,0.36,0.36,.4,1.5,0.3,1.3,0.4",
+		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,DisableClaimFlags,NPCShipDifficultyMult,NPCShipDi0fficultyLerp,NPCShipNumMult,bDontRequireClaimFlagsForBuilding,bDisableBuild,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1,1,3,3,1,3,3,3,False,True,0.36,0.36,.4,1.5,0.3,1.3,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Central Tundra",
 		"sotd": {
@@ -4195,8 +4130,8 @@
 			"Seaweed",
 			"Wild Potato"
 		],
-		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,DisableClaimFlags,NPCShipDifficultyMult,NPCShipDi0fficultyLerp,NPCShipNumMult,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1,1,3,3,1,3,3,3,0.36,0.36,.4,1.5,0.3,1.3,0.4",
+		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,DisableClaimFlags,NPCShipDifficultyMult,NPCShipDi0fficultyLerp,NPCShipNumMult,bDontRequireClaimFlagsForBuilding,bDisableBuild,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1,1,3,3,1,3,3,3,False,True,0.36,0.36,.4,1.5,0.3,1.3,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Central Tundra",
 		"sotd": {
@@ -4550,8 +4485,8 @@
 			"Twigs",
 			"Wild Cactus"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,DisableClaimFlags,NPCShipDifficultyMult,NPCShipDi0fficultyLerp,NPCShipNumMult,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,2,2,1,3,3,3,1,1,0,0.75",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,DisableClaimFlags,NPCShipDifficultyMult,NPCShipDi0fficultyLerp,NPCShipNumMult,bDontRequireClaimFlagsForBuilding,bDisableBuild,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,2,2,1,3,3,3,False,True,1,1,0,0.75",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Low Desert",
 		"sotd": {

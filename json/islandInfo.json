@@ -385,7 +385,7 @@
     },
     "287": {
         "id": 287,
-        "islandPoints": 81
+        "islandPoints": 70
     },
     "288": {
         "id": 288,
@@ -537,26 +537,30 @@
     },
     "337": {
         "id": 337,
-        "islandPoints": 20
+        "islandPoints": 200
     },
     "338": {
         "id": 338,
-        "islandPoints": 20
+        "islandPoints": 200
     },
     "339": {
         "id": 339,
-        "islandPoints": 20
+        "islandPoints": 200
     },
     "340": {
         "id": 340,
-        "islandPoints": 20
+        "islandPoints": 200
     },
     "341": {
         "id": 341,
-        "islandPoints": 20
+        "islandPoints": 200
     },
     "342": {
         "id": 342,
-        "islandPoints": 20
+        "islandPoints": 200
+    },
+    "467": {
+        "id": 467,
+        "islandPoints": -1
     }
 }
