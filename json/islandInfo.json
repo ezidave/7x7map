@@ -275,10 +275,6 @@
         "id": 647,
         "islandPoints": 24
     },
-    "649": {
-        "id": 649,
-        "islandPoints": 57
-    },
     "650": {
         "id": 650,
         "islandPoints": 45
@@ -347,14 +343,6 @@
         "id": 677,
         "islandPoints": -1
     },
-    "760": {
-        "id": 760,
-        "islandPoints": 57
-    },
-    "761": {
-        "id": 761,
-        "islandPoints": 57
-    },
     "763": {
         "id": 763,
         "islandPoints": 57
@@ -371,8 +359,20 @@
         "id": 767,
         "islandPoints": 57
     },
-    "769": {
-        "id": 769,
+    "770": {
+        "id": 770,
+        "islandPoints": 45
+    },
+    "771": {
+        "id": 771,
+        "islandPoints": 51
+    },
+    "773": {
+        "id": 773,
+        "islandPoints": 57
+    },
+    "774": {
+        "id": 774,
         "islandPoints": 57
     }
 }

@@ -1103,6 +1103,66 @@
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Cays/Cay_N_Near_03-659.Cay_N_Near_03:PersistentLevel.InstancedFoliageActor_9.HierarchicalInstancedStaticMeshComponent_8": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/BerryHarvestComponent_Blackberry.Default__BerryHarvestComponent_Blackberry_C": 4480
 	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_0": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 2367
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_1": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 2295
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_12": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Pine.Default__WoodHarvestComponent_Pine_C": 1026
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_13": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Pine.Default__WoodHarvestComponent_Pine_C": 1044
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_14": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Pine.Default__WoodHarvestComponent_Pine_C": 270
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_15": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Pine.Default__WoodHarvestComponent_Pine_C": 255
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_16": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Pine.Default__WoodHarvestComponent_Pine_C": 270
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_17": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 1350
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_18": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 2568
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_19": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Pine.Default__WoodHarvestComponent_Pine_C": 192
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_2": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Pine.Default__WoodHarvestComponent_Pine_C": 525
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_20": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 282
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_21": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_PineSappling.Default__WoodHarvestComponent_PineSappling_C": 168
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_22": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_PineSappling.Default__WoodHarvestComponent_PineSappling_C": 126
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_23": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 1494
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_24": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 1461
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_25": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 1473
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_3": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Pine.Default__WoodHarvestComponent_Pine_C": 444
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_4": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 339
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_05-771.Mnt_AA_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_5": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 351
+	},
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_07-596.Mnt_AA_Far_07:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_0": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 4044
 	},
@@ -1150,6 +1210,129 @@
 	},
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Far_07-596.Mnt_AA_Far_07:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_9": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/temp/VeggieTreeHarvestComponent_Olive.Default__VeggieTreeHarvestComponent_Olive_C": 0
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_0": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Huge.Default__StoneHarvestComponent_Huge_C": 240
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_1": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Huge.Default__StoneHarvestComponent_Huge_C": 231
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_10": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 8046
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_11": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 7944
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_12": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.Default__BerryHarvestComponent_Bilberry_C": 5427
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_13": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.Default__BerryHarvestComponent_Bilberry_C": 5391
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_14": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.Default__BerryHarvestComponent_Bilberry_C": 5523
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_15": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/HerbHarvestComponent_Garlic.Default__HerbHarvestComponent_Garlic_C": 11550
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_16": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/HerbHarvestComponent_Garlic.Default__HerbHarvestComponent_Garlic_C": 11583
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_17": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 7740
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_18": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 7686
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_19": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 7566
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_2": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Marble.Default__StoneHarvestComponent_Marble_C": 1287
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_20": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1116
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_21": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1131
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_22": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1071
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_23": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 15069
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_24": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 15006
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_25": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 15111
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_26": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 25389
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_27": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 25635
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_28": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 15156
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_29": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1089
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_3": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Marble.Default__StoneHarvestComponent_Marble_C": 960
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_4": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 1317
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_43": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 3903
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_44": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.Default__BerryHarvestComponent_Bilberry_C": 3651
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_5": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Marble.Default__StoneHarvestComponent_Marble_C": 1296
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_59": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/FlintHarvestComponent_Chert.Default__FlintHarvestComponent_Chert_C": 351
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_6": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Marble.Default__StoneHarvestComponent_Marble_C": 1233
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_60": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/PreservativeHarvestComponent_Pinksalt.Default__PreservativeHarvestComponent_PinkSalt_C": 165
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_61": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/CoalHarvestComponent_Nitre.Default__CoalHarvestComponent_Nitre_C": 678
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_62": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/CrystalHarvestComponent_Opal.Default__CrystalHarvestComponent_Opal_C": 1200
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_63": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/MetalHarvestComponent_Iron.Default__MetalHarvestComponent_Iron_C": 318
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_64": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/VeggieHarvestComponent_Turnip.Default__VeggieHarvestComponent_Turnip_C": 4191
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_65": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/VeggieHarvestComponent_Potato.Default__VeggieHarvestComponent_Potato_C": 4647
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_66": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/VeggieHarvestComponent_Turnip.Default__VeggieHarvestComponent_Turnip_C": 690
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_67": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/ThatchHarvestComponent_Roots.Default__ThatchHarvestComponent_Roots_C": 9795
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_7": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.Default__BerryHarvestComponent_Bilberry_C": 7935
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_8": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.Default__BerryHarvestComponent_Bilberry_C": 15258
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_05-771.Mnt_AA_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_9": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 8112
 	},
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_07-596.Mnt_AA_Near_07:PersistentLevel.InstancedFoliageActor_2.HierarchicalInstancedStaticMeshComponent_0": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_BAsil.Default__HerbHarvestComponent_Basil_C": 2636
@@ -1249,6 +1432,243 @@
 	},
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AA_Near_07-596.Mnt_AA_Near_07:PersistentLevel.InstancedFoliageActor_2.HierarchicalInstancedStaticMeshComponent_64": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Copper/PickupRockHarvestComponent_Granite.Default__PickupRockHarvestComponent_Granite_C": 26880
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_0": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/SapHarvestComponent_Latex.Default__SapHarvestComponent_Latex_C": 1796
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_1": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 40
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_2": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 88
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_201": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 244
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_203": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 196
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_21": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 2368
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_220": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 696
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_222": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 732
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_224": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 704
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_249": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 2436
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_25": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 2256
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_255": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 2420
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_257": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 2264
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_29": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 2504
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_36": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 532
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_38": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 504
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_40": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 488
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_444": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 776
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_447": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 892
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_52": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 1408
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_55": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 1344
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_56": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 1372
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_63": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 3712
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_65": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 1632
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_66": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 8788
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Far_07B-770.Mnt_AB_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_73": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/VeggieTreeHarvestComponent_Cocoa.Default__VeggieTreeHarvestComponent_Cocoa_C": 2380
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_0": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Copper/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 7544
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_1": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Copper/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 7364
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_101": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_BAsil.Default__HerbHarvestComponent_Basil_C": 4968
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_102": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_BAsil.Default__HerbHarvestComponent_Basil_C": 1268
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_11": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 2080
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_119": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/VeggieHarvestComponent_Chickpeas.Default__VeggieHarvestComponent_Chickpeas_C": 5860
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_12": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Copper/StoneHarvestComponent_Huge.Default__StoneHarvestComponent_Huge_C": 2012
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_120": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/VeggieHarvestComponent_Chickpeas.Default__VeggieHarvestComponent_Chickpeas_C": 5820
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_127": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 73816
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_128": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 73252
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_13": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Copper/StoneHarvestComponent_Huge.Default__StoneHarvestComponent_Huge_C": 2112
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_14": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Copper/StoneHarvestComponent_Huge.Default__StoneHarvestComponent_Huge_C": 2008
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_141": {
+		"/Game/PrimalEarth/CoreBlueprints/HarvestComponents/ToxicFloraHarvestComponent.Default__ToxicFloraHarvestComponent_C": 684
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_142": {
+		"/Game/PrimalEarth/CoreBlueprints/HarvestComponents/ToxicFloraHarvestComponent.Default__ToxicFloraHarvestComponent_C": 640
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_143": {
+		"/Game/PrimalEarth/CoreBlueprints/HarvestComponents/ToxicFloraHarvestComponent.Default__ToxicFloraHarvestComponent_C": 684
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_144": {
+		"/Game/PrimalEarth/CoreBlueprints/HarvestComponents/ToxicFloraHarvestComponent.Default__ToxicFloraHarvestComponent_C": 680
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_15": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/MetalHarvestComponent_Silver.Default__MetalHarvestComponent_Silver_C": 1296
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_157": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 33556
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_158": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 31788
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_159": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 32172
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_16": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/CrystalHarvestComponent_Opal.Default__CrystalHarvestComponent_Opal_C": 364
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_187": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 8996
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_188": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 4804
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_189": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 1428
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_190": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 1424
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_191": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 1364
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_2": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Copper/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1640
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_23": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_Thyme.Default__HerbHarvestComponent_Thyme_C": 4256
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_26": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Acerolla.Default__BerryHarvestComponent_Acerolla_C": 1556
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_29": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Acerolla.Default__BerryHarvestComponent_Acerolla_C": 1592
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_3": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Copper/PickupRockHarvestComponent_Granite.Default__PickupRockHarvestComponent_Granite_C": 36960
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_32": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Acerolla.Default__BerryHarvestComponent_Acerolla_C": 1584
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_36": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/ThatchHarvestComponent_Frond.Default__ThatchHarvestComponent_Frond_C": 164
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_37": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/FiberHarvestComponent_Straw.Default__FiberHarvestComponent_Straw_C": 1684
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_38": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/FiberHarvestComponent_Straw.Default__FiberHarvestComponent_Straw_C": 1624
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_4": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Copper/PickupRockHarvestComponent_Granite.Default__PickupRockHarvestComponent_Granite_C": 37068
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_441": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/SapHarvestComponent_Latex_Lilly.Default__SapHarvestComponent_Latex_Lilly_C": 2612
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_49": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 39524
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_50": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 39672
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_51": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 39568
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_59": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/ThatchHarvestComponent_Roots.Default__ThatchHarvestComponent_Roots_C": 4716
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_6": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 2208
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_63": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/ThatchHarvestComponent_Frond.Default__ThatchHarvestComponent_Frond_C": 80
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_68": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/CrystalHarvestComponent_Quartz.Default__CrystalHarvestComponent_Quartz_C": 620
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_69": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/CoalHarvestComponent_Sulfur.Default__CoalHarvestComponent_Sulfur_C": 3104
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_7": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 4960
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_70": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/SapHarvestComponent_Honey.Default__SapHarvestComponent_Honey_C": 136
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_73": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 26380
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_81": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 26360
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_82": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 26456
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_92": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_Thyme.Default__HerbHarvestComponent_Thyme_C": 5740
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_93": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_Thyme.Default__HerbHarvestComponent_Thyme_C": 4160
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AB_Near_07B-770.Mnt_AB_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_94": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_Thyme.Default__HerbHarvestComponent_Thyme_C": 7852
 	},
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AC_Far_07B-767.Mnt_AC_Far_07B:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_23": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 24
@@ -1562,6 +1982,75 @@
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_07B-594.Mnt_AD_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_73": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/VeggieTreeHarvestComponent_Cocoa.Default__VeggieTreeHarvestComponent_Cocoa_C": 303
 	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_0": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 36
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_1": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 258
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_10": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 834
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_11": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 459
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_12": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 474
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_13": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 828
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_14": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 840
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_15": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 792
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_16": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 1542
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_17": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 1431
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_18": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 1524
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_19": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 1497
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_2": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 879
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_23": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 321
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_24": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 360
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_3": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 876
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_34": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 300
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_4": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 948
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_5": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 447
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_6": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 402
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_7": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 570
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_8": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 570
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Far_11-773.Mnt_AD_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_9": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 519
+	},
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_07B-594.Mnt_AD_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_0": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Copper/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 12909
 	},
@@ -1720,6 +2209,156 @@
 	},
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_07B-594.Mnt_AD_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_94": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_Thyme.Default__HerbHarvestComponent_Thyme_C": 843
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_0": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1194
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_1": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1146
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_10": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 3696
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_11": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 1680
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_12": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 1713
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_13": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 1677
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_14": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Cactus.Default__VeggieHarvestComponent_Cactus_C": 1680
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_15": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Cactus.Default__VeggieHarvestComponent_Cactus_C": 1713
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_16": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/VeggieHarvestComponent_Cactus.Default__VeggieHarvestComponent_Cactus_C": 2070
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_17": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 3000
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_18": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 2946
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_19": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 2964
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_2": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 2985
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_20": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 9474
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_21": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 9555
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_22": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 9582
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_23": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 2988
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_24": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 7194
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_25": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Elderberry.Default__BerryHarvestComponent_Elderberry_C": 918
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_26": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 7209
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_27": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 7170
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_28": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 7188
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_29": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 0
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_3": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 0
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_30": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 615
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_31": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/PickupRockHarvestComponent_Sandstone.Default__PickupRockHarvestComponent_Sandstone_C": 7200
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_32": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 603
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_33": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 0
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_34": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/HerbHarvestComponent_Cilantro.Default__HerbHarvestComponent_Cilantro_C": 0
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_35": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/HerbHarvestComponent_Cilantro.Default__HerbHarvestComponent_Cilantro_C": 0
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_36": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/RareFoliage/MetalHarvestComponent_Iridium.Default__MetalHarvestComponent_Iridium_C": 393
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_37": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/CrystalHarvestComponent_Opal.Default__CrystalHarvestComponent_Opal_C": 387
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_38": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/MetalHarvestComponent_Iron.Default__MetalHarvestComponent_Iron_C": 441
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_39": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/CoalHarvestComponent_Graphite.Default__CoalHarvestComponent_Graphite_C": 456
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_4": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1167
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_40": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/BerryHarvestComponent_Bilberry.Default__BerryHarvestComponent_Bilberry_C": 1617
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_41": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/BerryHarvestComponent_Lignonberry.Default__BerryHarvestComponent_Lignonberry_C": 4551
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_42": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/PickupRockHarvestComponent_Sandstone.Default__PickupRockHarvestComponent_Sandstone_C": 8727
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_43": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/PickupRockHarvestComponent_Sandstone.Default__PickupRockHarvestComponent_Sandstone_C": 8799
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_44": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_Thyme.Default__HerbHarvestComponent_Thyme_C": 975
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_45": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/HerbHarvestComponent_Yarrow.Default__HerbHarvestComponent_Yarrow_C": 408
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_46": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/ThatchHarvestComponent_Frond.Default__ThatchHarvestComponent_Frond_C": 39
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_47": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/VeggieHarvestComponent_Potato.Default__VeggieHarvestComponent_Potato_C": 315
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_48": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/VeggieHarvestComponent_Turnip.Default__VeggieHarvestComponent_Turnip_C": 54
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_49": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/ThatchHarvestComponent_Roots.Default__ThatchHarvestComponent_Roots_C": 3543
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_5": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 660
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_6": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 636
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_7": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/BerryHarvestComponent_Schisandra.Default__BerryHarvestComponent_Schisandra_C": 11820
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_8": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/BerryHarvestComponent_Schisandra.Default__BerryHarvestComponent_Schisandra_C": 11874
+	},
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AD_Near_11-773.Mnt_AD_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_9": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 3621
 	},
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AE_Far_07B-593.Mnt_AE_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_123": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 381
@@ -1958,233 +2597,233 @@
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AE_Near_07B-593.Mnt_AE_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_99": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/PickupRockHarvestComponent_Limestone.Default__PickupRockHarvestComponent_Limestone_C": 3768
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_251": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 664
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_0": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 882
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_252": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 420
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_1": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 939
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_253": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 384
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_10": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_AshSappling.Default__WoodHarvestComponent_AshSappling_C": 213
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_254": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 424
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_11": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_AshSappling.Default__WoodHarvestComponent_AshSappling_C": 252
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_256": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/SapHarvestComponent_Latex.Default__SapHarvestComponent_Latex_C": 1240
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_12": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_AshSappling.Default__WoodHarvestComponent_AshSappling_C": 228
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_258": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 524
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_13": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 1239
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_259": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 708
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_14": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 1197
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_260": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 2456
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_15": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 1113
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_261": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 2036
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_16": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 414
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_262": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 1712
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_17": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 423
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_263": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 416
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_18": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 426
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_264": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 380
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_19": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 576
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_265": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 140
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_2": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 1374
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_266": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 100
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_23": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 315
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_267": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 340
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_24": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 291
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_268": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 368
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_3": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 1365
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_269": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 20
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_34": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 828
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_270": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 40
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_4": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 1350
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_271": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 688
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_5": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 807
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_272": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 940
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_6": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 798
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_273": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 1088
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_7": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 3543
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_274": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 1144
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_8": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 3534
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_275": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 1480
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_11-774.Mnt_AF_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_9": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 3447
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_276": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 1308
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_0": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1710
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_280": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/VeggieTreeHarvestComponent_Cocoa.Default__VeggieTreeHarvestComponent_Cocoa_C": 2124
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_1": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1677
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Far_07B-769.Mnt_AF_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_281": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 700
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_10": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 28149
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_284": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 1292
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_11": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 12561
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_285": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 1940
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_12": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 12147
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_286": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.Default__WoodHarvestComponent_OakSappling_C": 1264
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_13": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 11916
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_287": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_Thyme.Default__HerbHarvestComponent_Thyme_C": 3456
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_14": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Cactus.Default__VeggieHarvestComponent_Cactus_C": 2997
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_288": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_Thyme.Default__HerbHarvestComponent_Thyme_C": 3256
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_15": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Cactus.Default__VeggieHarvestComponent_Cactus_C": 3192
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_289": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_Thyme.Default__HerbHarvestComponent_Thyme_C": 3304
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_16": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Cactus.Default__VeggieHarvestComponent_Cactus_C": 4728
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_290": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 6212
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_17": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 12426
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_291": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 6016
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_18": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 12507
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_292": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1732
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_19": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 12429
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_293": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/StoneHarvestComponent_Huge.Default__StoneHarvestComponent_Huge_C": 1216
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_2": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 12204
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_294": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/StoneHarvestComponent_Huge.Default__StoneHarvestComponent_Huge_C": 1272
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_23": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 9354
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_295": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/StoneHarvestComponent_Huge.Default__StoneHarvestComponent_Huge_C": 1424
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_24": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 8760
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_299": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_Thyme.Default__HerbHarvestComponent_Thyme_C": 3440
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_25": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 2601
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_304": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_BAsil.Default__HerbHarvestComponent_Basil_C": 1324
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_26": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 8742
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_305": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_BAsil.Default__HerbHarvestComponent_Basil_C": 1320
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_27": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 8964
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_306": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/SapHarvestComponent_Latex_Lilly.Default__SapHarvestComponent_Latex_Lilly_C": 668
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_28": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 8826
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_307": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/VeggieHarvestComponent_Chickpeas.Default__VeggieHarvestComponent_Chickpeas_C": 492
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_29": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1110
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_308": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/VeggieHarvestComponent_Chickpeas.Default__VeggieHarvestComponent_Chickpeas_C": 572
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_3": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1320
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_309": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 40112
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_30": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1020
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_310": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 40276
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_31": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 8934
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_311": {
-		"/Game/PrimalEarth/CoreBlueprints/HarvestComponents/ToxicFloraHarvestComponent.Default__ToxicFloraHarvestComponent_C": 456
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_32": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1137
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_312": {
-		"/Game/PrimalEarth/CoreBlueprints/HarvestComponents/ToxicFloraHarvestComponent.Default__ToxicFloraHarvestComponent_C": 496
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_33": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1176
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_313": {
-		"/Game/PrimalEarth/CoreBlueprints/HarvestComponents/ToxicFloraHarvestComponent.Default__ToxicFloraHarvestComponent_C": 452
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_36": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/MetalHarvestComponent_Iron.Default__MetalHarvestComponent_Iron_C": 438
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_314": {
-		"/Game/PrimalEarth/CoreBlueprints/HarvestComponents/ToxicFloraHarvestComponent.Default__ToxicFloraHarvestComponent_C": 436
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_37": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/CrystalHarvestComponent_Opal.Default__CrystalHarvestComponent_Opal_C": 429
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_315": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 8420
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_38": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/FlintHarvestComponent_Chert.Default__FlintHarvestComponent_Chert_C": 420
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_316": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 8368
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_39": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/CoalHarvestComponent_Graphite.Default__CoalHarvestComponent_Graphite_C": 1419
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_317": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 8348
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_4": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1659
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_319": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 9028
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_40": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 3603
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_320": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 56976
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_41": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Elderberry.Default__BerryHarvestComponent_Elderberry_C": 10134
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_321": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 58256
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_42": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 10215
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_322": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Acerolla.Default__BerryHarvestComponent_Acerolla_C": 1228
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_43": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 10170
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_323": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Acerolla.Default__BerryHarvestComponent_Acerolla_C": 1232
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_45": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Turnip.Default__VeggieHarvestComponent_Turnip_C": 2625
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_324": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Acerolla.Default__BerryHarvestComponent_Acerolla_C": 1224
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_46": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Potato.Default__VeggieHarvestComponent_Potato_C": 1434
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_325": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 848
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_47": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Potato.Default__VeggieHarvestComponent_Potato_C": 7785
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_326": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 860
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_48": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Turnip.Default__VeggieHarvestComponent_Turnip_C": 1332
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_327": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 804
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_49": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 10593
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_328": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 888
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_5": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 558
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_329": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Seagrape.Default__BerryHarvestComponent_Seagrape_C": 812
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_50": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 8721
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_330": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/CrystalHarvestComponent_Opal.Default__CrystalHarvestComponent_Opal_C": 604
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_51": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 14532
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_331": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/MetalHarvestComponent_Silver.Default__MetalHarvestComponent_Silver_C": 556
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_52": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/ThatchHarvestComponent_Bark.Default__ThatchHarvestComponent_Bark_C": 1821
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_332": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/PickupRockHarvestComponent_Limestone.Default__PickupRockHarvestComponent_Limestone_C": 20024
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_58": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/HerbHarvestComponent_Garlic.Default__HerbHarvestComponent_Garlic_C": 55692
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_333": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/PickupRockHarvestComponent_Limestone.Default__PickupRockHarvestComponent_Limestone_C": 18952
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_59": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/HerbHarvestComponent_Garlic.Default__HerbHarvestComponent_Garlic_C": 56820
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_334": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/FiberHarvestComponent_Straw.Default__FiberHarvestComponent_Straw_C": 3472
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_6": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 558
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_335": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/FiberHarvestComponent_Straw.Default__FiberHarvestComponent_Straw_C": 3376
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_64": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/HerbHarvestComponent_Garlic.Default__HerbHarvestComponent_Garlic_C": 6195
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_338": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 22096
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_7": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Elderberry.Default__BerryHarvestComponent_Elderberry_C": 60027
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_339": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 21756
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_71": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 59271
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_340": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.Default__FiberHarvestComponent_Jute_C": 22024
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_72": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 58926
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_342": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/SapHarvestComponent_Honey.Default__SapHarvestComponent_Honey_C": 76
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_73": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 58974
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_343": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/CoalHarvestComponent_Sulfur.Default__CoalHarvestComponent_Sulfur_C": 324
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_8": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Elderberry.Default__BerryHarvestComponent_Elderberry_C": 60162
 	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_07B-769.Mnt_AF_Near_07B:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_344": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/CrystalHarvestComponent_Quartz.Default__CrystalHarvestComponent_Quartz_C": 788
+	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AF_Near_11-774.Mnt_AF_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_9": {
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 27747
 	},
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AH_Far_07B-590.Mnt_AH_Far_07B:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_1": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_Oak.Default__WoodHarvestComponent_Oak_C": 24
@@ -3535,453 +4174,6 @@
 	},
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AQ_Near_07-586.Mnt_AQ_Near_07:PersistentLevel.InstancedFoliageActor_2.HierarchicalInstancedStaticMeshComponent_250": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/BerryHarvestComponent_Acerolla.Default__BerryHarvestComponent_Acerolla_C": 2456
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_0": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 189
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_1": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 171
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_10": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_AshSappling.Default__WoodHarvestComponent_AshSappling_C": 378
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_11": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_AshSappling.Default__WoodHarvestComponent_AshSappling_C": 402
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_12": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_AshSappling.Default__WoodHarvestComponent_AshSappling_C": 372
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_13": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 774
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_14": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 810
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_15": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 786
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_16": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 879
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_17": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 921
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_18": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 888
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_19": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 912
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_2": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 564
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_23": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 288
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_24": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 276
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_3": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 546
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_34": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 183
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_4": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 480
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_5": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 309
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_6": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 312
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_7": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 318
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_8": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 282
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Far_11-761.Mnt_AR_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_9": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 297
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_0": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1197
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_1": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1167
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_10": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 912
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_11": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 2457
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_12": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 2529
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_13": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 2487
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_14": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Cactus.Default__VeggieHarvestComponent_Cactus_C": 1596
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_15": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Cactus.Default__VeggieHarvestComponent_Cactus_C": 1605
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_16": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Cactus.Default__VeggieHarvestComponent_Cactus_C": 1428
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_17": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 0
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_18": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 0
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_19": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 0
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_2": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 9432
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_20": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 10272
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_21": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 10269
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_22": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 10185
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_23": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 0
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_24": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 2901
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_25": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 693
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_26": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 2748
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_27": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 2802
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_28": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 0
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_29": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 303
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_3": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 0
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_30": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 267
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_31": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 0
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_32": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 0
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_33": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 252
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_34": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/HerbHarvestComponent_Garlic.Default__HerbHarvestComponent_Garlic_C": 9690
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_35": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/HerbHarvestComponent_Garlic.Default__HerbHarvestComponent_Garlic_C": 9765
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_36": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/MetalHarvestComponent_Iron.Default__MetalHarvestComponent_Iron_C": 411
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_37": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/CrystalHarvestComponent_Opal.Default__CrystalHarvestComponent_Opal_C": 396
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_38": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/FlintHarvestComponent_Chert.Default__FlintHarvestComponent_Chert_C": 315
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_39": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/CoalHarvestComponent_Graphite.Default__CoalHarvestComponent_Graphite_C": 231
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_4": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1206
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_40": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 801
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_41": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Elderberry.Default__BerryHarvestComponent_Elderberry_C": 2238
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_42": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 4269
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_43": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 4119
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_44": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/HerbHarvestComponent_Garlic.Default__HerbHarvestComponent_Garlic_C": 1794
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_45": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Turnip.Default__VeggieHarvestComponent_Turnip_C": 744
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_46": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Potato.Default__VeggieHarvestComponent_Potato_C": 84
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_47": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Potato.Default__VeggieHarvestComponent_Potato_C": 675
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_48": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Turnip.Default__VeggieHarvestComponent_Turnip_C": 105
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_49": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/ThatchHarvestComponent_Bark.Default__ThatchHarvestComponent_Bark_C": 2265
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_5": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 240
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_6": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 267
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_7": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Elderberry.Default__BerryHarvestComponent_Elderberry_C": 14976
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_8": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Elderberry.Default__BerryHarvestComponent_Elderberry_C": 14919
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AR_Near_11-761.Mnt_AR_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_9": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 882
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_0": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 648
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_1": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 696
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_10": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_AshSappling.Default__WoodHarvestComponent_AshSappling_C": 168
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_11": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_AshSappling.Default__WoodHarvestComponent_AshSappling_C": 150
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_12": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_AshSappling.Default__WoodHarvestComponent_AshSappling_C": 147
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_13": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 525
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_14": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 522
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_15": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 528
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_16": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 810
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_17": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 762
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_18": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 780
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_19": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 168
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_2": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 1041
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_3": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 921
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_34": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 663
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_39": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 66
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_4": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 1011
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_40": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 75
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_5": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 960
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_6": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 957
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_7": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 4014
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_8": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 3981
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Far_11-760.Mnt_AU_Far_11:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_9": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 3900
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_0": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1155
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_1": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1119
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_10": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 49590
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_11": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 2778
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_12": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 18528
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_13": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 16404
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_14": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Cactus.Default__VeggieHarvestComponent_Cactus_C": 2439
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_15": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Cactus.Default__VeggieHarvestComponent_Cactus_C": 2277
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_16": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Cactus.Default__VeggieHarvestComponent_Cactus_C": 621
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_17": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 10806
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_18": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 10818
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_19": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 10878
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_2": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 10824
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_20": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 57384
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_21": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 57486
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_22": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 57825
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_23": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 10827
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_24": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 2916
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_25": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 4482
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_26": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 2892
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_27": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 2919
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_28": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 2889
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_29": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 267
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_3": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 942
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_30": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 300
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_31": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 2922
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_32": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 324
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_33": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 252
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_36": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/MetalHarvestComponent_Iron.Default__MetalHarvestComponent_Iron_C": 411
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_37": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/CrystalHarvestComponent_Opal.Default__CrystalHarvestComponent_Opal_C": 378
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_38": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/FlintHarvestComponent_Chert.Default__FlintHarvestComponent_Chert_C": 114
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_39": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/CoalHarvestComponent_Graphite.Default__CoalHarvestComponent_Graphite_C": 138
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_4": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 1203
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_40": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 1353
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_42": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 2463
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_43": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 2457
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_44": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/HerbHarvestComponent_Garlic.Default__HerbHarvestComponent_Garlic_C": 1158
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_45": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Turnip.Default__VeggieHarvestComponent_Turnip_C": 1365
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_46": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Potato.Default__VeggieHarvestComponent_Potato_C": 954
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_47": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Potato.Default__VeggieHarvestComponent_Potato_C": 6771
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_48": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieHarvestComponent_Turnip.Default__VeggieHarvestComponent_Turnip_C": 978
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_49": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 4971
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_50": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 4089
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_51": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 6888
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_52": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/ThatchHarvestComponent_Bark.Default__ThatchHarvestComponent_Bark_C": 2133
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_53": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/HerbHarvestComponent_Garlic.Default__HerbHarvestComponent_Garlic_C": 33225
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_54": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/HerbHarvestComponent_Garlic.Default__HerbHarvestComponent_Garlic_C": 32976
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_55": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 213
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_56": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/VeggieTreeHarvestComponent_Cactus.Default__VeggieTreeHarvestComponent_Cactus_C": 201
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_60": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Elderberry.Default__BerryHarvestComponent_Elderberry_C": 3492
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_7": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Elderberry.Default__BerryHarvestComponent_Elderberry_C": 48240
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_8": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/BerryHarvestComponent_Elderberry.Default__BerryHarvestComponent_Elderberry_C": 48474
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_AU_Near_11-760.Mnt_AU_Near_11:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_9": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/11_C_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 49980
 	},
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_A_Far_02-647.Mnt_A_Far_02:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_0": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/SapHarvestComponent_Syrup.Default__SapHarvestComponent_Syrup_C": 252
@@ -11155,189 +11347,6 @@
 	},
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_R_Near_10_PVE-486.Mnt_R_Near_10_PVE:PersistentLevel.InstancedFoliageActor_3.HierarchicalInstancedStaticMeshComponent_310": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/TreeHarvest/TreeHarvestComponent_Olive.Default__TreeHarvestComponent_Olive_C": 48
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_10": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 762
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_11": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 792
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_12": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_PineSappling.Default__WoodHarvestComponent_PineSappling_C": 255
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_13": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_PineSappling.Default__WoodHarvestComponent_PineSappling_C": 222
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_14": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 1959
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_15": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 1038
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_16": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Pine.Default__WoodHarvestComponent_Pine_C": 1401
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_17": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Pine.Default__WoodHarvestComponent_Pine_C": 1350
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_21": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Pine.Default__WoodHarvestComponent_Pine_C": 1374
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_22": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Pine.Default__WoodHarvestComponent_Pine_C": 804
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_35": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 867
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_36": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 876
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_37": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Pine.Default__WoodHarvestComponent_Pine_C": 1278
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_38": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Pine.Default__WoodHarvestComponent_Pine_C": 1197
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_39": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 567
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_7": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 207
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_8": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 240
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Far_05-649.Mnt_S_Far_05:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_9": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.Default__WoodHarvestComponent_Fir_C": 963
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_0": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Huge.Default__StoneHarvestComponent_Huge_C": 171
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_1": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Huge.Default__StoneHarvestComponent_Huge_C": 108
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_10": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 2919
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_18": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.Default__BerryHarvestComponent_Bilberry_C": 10560
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_19": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 40188
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_2": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Marble.Default__StoneHarvestComponent_Marble_C": 1821
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_20": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 21540
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_23": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 40461
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_24": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.Default__BerryHarvestComponent_Bilberry_C": 9645
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_25": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 21678
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_26": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/FiberHarvestComponent_Cotton.Default__FiberHarvestComponent_Cotton_C": 21639
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_27": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 36090
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_28": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 35859
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_29": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Raspberry.Default__BerryHarvestComponent_Raspberry_C": 35778
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_3": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Marble.Default__StoneHarvestComponent_Marble_C": 1830
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_30": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.Default__BerryHarvestComponent_Bilberry_C": 5850
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_31": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.Default__BerryHarvestComponent_Bilberry_C": 5769
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_32": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.Default__BerryHarvestComponent_Bilberry_C": 5760
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_33": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/HerbHarvestComponent_Garlic.Default__HerbHarvestComponent_Garlic_C": 13890
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_34": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/HerbHarvestComponent_Garlic.Default__HerbHarvestComponent_Garlic_C": 13680
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_35": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 8217
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_36": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 8295
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_37": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 8325
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_38": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 8355
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_39": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 648
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_4": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Marble.Default__StoneHarvestComponent_Marble_C": 903
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_40": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 657
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_41": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 636
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_42": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Large.Default__StoneHarvestComponent_Large_C": 651
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_5": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Small.Default__StoneHarvestComponent_Small_C": 1875
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_54": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/MetalHarvestComponent_Iron.Default__MetalHarvestComponent_Iron_C": 405
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_55": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/CrystalHarvestComponent_Opal.Default__CrystalHarvestComponent_Opal_C": 714
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_56": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/PreservativeHarvestComponent_Pinksalt.Default__PreservativeHarvestComponent_PinkSalt_C": 126
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_59": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/CoalHarvestComponent_Nitre.Default__CoalHarvestComponent_Nitre_C": 1038
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_6": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/StoneHarvestComponent_Marble.Default__StoneHarvestComponent_Marble_C": 1908
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_7": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 17601
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_70": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/FlintHarvestComponent_Chert.Default__FlintHarvestComponent_Chert_C": 1194
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_71": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/VeggieHarvestComponent_Turnip.Default__VeggieHarvestComponent_Turnip_C": 4323
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_72": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/VeggieHarvestComponent_Potato.Default__VeggieHarvestComponent_Potato_C": 1446
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_73": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/VeggieHarvestComponent_Turnip.Default__VeggieHarvestComponent_Turnip_C": 270
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_74": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/ThatchHarvestComponent_Roots.Default__ThatchHarvestComponent_Roots_C": 5631
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_8": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iron/PickupRockHarvestComponent_Marble.Default__PickupRockHarvestComponent_Marble_C": 17367
-	},
-	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_S_Near_05-649.Mnt_S_Near_05:PersistentLevel.InstancedFoliageActor_1.HierarchicalInstancedStaticMeshComponent_9": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.Default__BerryHarvestComponent_Bilberry_C": 2538
 	},
 	"HierarchicalInstancedStaticMeshComponent /Game/Maps/SeamlessTest/Mnt/Mnt_W_Far_04-620.Mnt_W_Far_04:PersistentLevel.InstancedFoliageActor_0.HierarchicalInstancedStaticMeshComponent_0": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/temp/WoodHarvestComponent_Ash.Default__WoodHarvestComponent_Ash_C": 8464
