@@ -83,10 +83,6 @@
         "id": 582,
         "islandPoints": 45
     },
-    "583": {
-        "id": 583,
-        "islandPoints": 45
-    },
     "584": {
         "id": 584,
         "islandPoints": 45
@@ -107,24 +103,12 @@
         "id": 590,
         "islandPoints": 57
     },
-    "591": {
-        "id": 591,
-        "islandPoints": 57
-    },
-    "592": {
-        "id": 592,
-        "islandPoints": 57
-    },
     "593": {
         "id": 593,
         "islandPoints": 57
     },
     "594": {
         "id": 594,
-        "islandPoints": 57
-    },
-    "595": {
-        "id": 595,
         "islandPoints": 57
     },
     "596": {
@@ -167,10 +151,6 @@
         "id": 611,
         "islandPoints": 46
     },
-    "612": {
-        "id": 612,
-        "islandPoints": 57
-    },
     "613": {
         "id": 613,
         "islandPoints": 15
@@ -202,10 +182,6 @@
     "620": {
         "id": 620,
         "islandPoints": 57
-    },
-    "621": {
-        "id": 621,
-        "islandPoints": 45
     },
     "622": {
         "id": 622,
@@ -277,10 +253,6 @@
     },
     "639": {
         "id": 639,
-        "islandPoints": 57
-    },
-    "641": {
-        "id": 641,
         "islandPoints": 57
     },
     "643": {
@@ -374,5 +346,33 @@
     "677": {
         "id": 677,
         "islandPoints": -1
+    },
+    "760": {
+        "id": 760,
+        "islandPoints": 57
+    },
+    "761": {
+        "id": 761,
+        "islandPoints": 57
+    },
+    "763": {
+        "id": 763,
+        "islandPoints": 57
+    },
+    "765": {
+        "id": 765,
+        "islandPoints": 57
+    },
+    "766": {
+        "id": 766,
+        "islandPoints": 57
+    },
+    "767": {
+        "id": 767,
+        "islandPoints": 57
+    },
+    "769": {
+        "id": 769,
+        "islandPoints": 57
     }
 }
