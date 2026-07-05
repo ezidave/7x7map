@@ -1,566 +1,378 @@
 {
-    "182": {
-        "id": 182,
-        "islandPoints": -1
-    },
-    "183": {
-        "id": 183,
-        "islandPoints": -1
-    },
-    "184": {
-        "id": 184,
-        "islandPoints": -1
-    },
-    "185": {
-        "id": 185,
-        "islandPoints": -1
-    },
-    "186": {
-        "id": 186,
-        "islandPoints": -1
-    },
-    "187": {
-        "id": 187,
-        "islandPoints": 57
-    },
-    "188": {
-        "id": 188,
-        "islandPoints": -1
-    },
-    "189": {
-        "id": 189,
-        "islandPoints": -1
-    },
-    "190": {
-        "id": 190,
-        "islandPoints": -1
-    },
-    "191": {
-        "id": 191,
-        "islandPoints": -1
-    },
-    "192": {
-        "id": 192,
-        "islandPoints": -1
-    },
-    "193": {
-        "id": 193,
-        "islandPoints": -1
-    },
-    "194": {
-        "id": 194,
-        "islandPoints": -1
-    },
-    "195": {
-        "id": 195,
-        "islandPoints": -1
-    },
-    "196": {
-        "id": 196,
-        "islandPoints": -1
-    },
-    "197": {
-        "id": 197,
-        "islandPoints": -1
-    },
-    "198": {
-        "id": 198,
-        "islandPoints": -1
-    },
-    "199": {
-        "id": 199,
-        "islandPoints": -1
-    },
-    "200": {
-        "id": 200,
-        "islandPoints": -1
-    },
-    "201": {
-        "id": 201,
-        "islandPoints": -1
-    },
-    "202": {
-        "id": 202,
-        "islandPoints": 57
-    },
-    "204": {
-        "id": 204,
-        "islandPoints": 70
-    },
-    "205": {
-        "id": 205,
-        "islandPoints": 45
-    },
-    "206": {
-        "id": 206,
-        "islandPoints": 70
-    },
-    "207": {
-        "id": 207,
-        "islandPoints": 57
-    },
-    "208": {
-        "id": 208,
-        "islandPoints": 57
-    },
-    "209": {
-        "id": 209,
-        "islandPoints": 57
-    },
-    "210": {
-        "id": 210,
-        "islandPoints": 57
-    },
-    "211": {
-        "id": 211,
-        "islandPoints": 57
-    },
-    "212": {
-        "id": 212,
-        "islandPoints": 57
-    },
-    "214": {
-        "id": 214,
-        "islandPoints": 57
-    },
-    "215": {
-        "id": 215,
-        "islandPoints": 45
-    },
-    "216": {
-        "id": 216,
-        "islandPoints": 45
-    },
-    "217": {
-        "id": 217,
-        "islandPoints": 57
-    },
-    "218": {
-        "id": 218,
-        "islandPoints": 45
-    },
-    "219": {
-        "id": 219,
-        "islandPoints": 45
-    },
-    "22": {
-        "id": 22,
-        "islandPoints": 45
-    },
-    "220": {
-        "id": 220,
-        "islandPoints": 57
-    },
-    "221": {
-        "id": 221,
+    "470": {
+        "id": 470,
         "islandPoints": 46
     },
-    "222": {
-        "id": 222,
-        "islandPoints": 46
+    "471": {
+        "id": 471,
+        "islandPoints": 45
     },
-    "224": {
-        "id": 224,
-        "islandPoints": 57
-    },
-    "225": {
-        "id": 225,
-        "islandPoints": 35
-    },
-    "226": {
-        "id": 226,
-        "islandPoints": 35
-    },
-    "227": {
-        "id": 227,
+    "472": {
+        "id": 472,
         "islandPoints": -1
     },
-    "229": {
-        "id": 229,
+    "473": {
+        "id": 473,
+        "islandPoints": -1
+    },
+    "474": {
+        "id": 474,
+        "islandPoints": -1
+    },
+    "475": {
+        "id": 475,
+        "islandPoints": -1
+    },
+    "476": {
+        "id": 476,
+        "islandPoints": -1
+    },
+    "477": {
+        "id": 477,
+        "islandPoints": -1
+    },
+    "478": {
+        "id": 478,
+        "islandPoints": -1
+    },
+    "479": {
+        "id": 479,
+        "islandPoints": -1
+    },
+    "480": {
+        "id": 480,
+        "islandPoints": -1
+    },
+    "481": {
+        "id": 481,
+        "islandPoints": -1
+    },
+    "482": {
+        "id": 482,
+        "islandPoints": -1
+    },
+    "483": {
+        "id": 483,
+        "islandPoints": -1
+    },
+    "484": {
+        "id": 484,
+        "islandPoints": -1
+    },
+    "485": {
+        "id": 485,
+        "islandPoints": -1
+    },
+    "486": {
+        "id": 486,
+        "islandPoints": -1
+    },
+    "487": {
+        "id": 487,
+        "islandPoints": -1
+    },
+    "489": {
+        "id": 489,
+        "islandPoints": -1
+    },
+    "490": {
+        "id": 490,
+        "islandPoints": -1
+    },
+    "582": {
+        "id": 582,
+        "islandPoints": 45
+    },
+    "583": {
+        "id": 583,
+        "islandPoints": 45
+    },
+    "584": {
+        "id": 584,
+        "islandPoints": 45
+    },
+    "585": {
+        "id": 585,
         "islandPoints": 57
     },
-    "23": {
-        "id": 23,
-        "islandPoints": 45
-    },
-    "230": {
-        "id": 230,
+    "586": {
+        "id": 586,
         "islandPoints": 57
     },
-    "231": {
-        "id": 231,
+    "588": {
+        "id": 588,
         "islandPoints": 45
     },
-    "232": {
-        "id": 232,
-        "islandPoints": 45
-    },
-    "233": {
-        "id": 233,
-        "islandPoints": 45
-    },
-    "234": {
-        "id": 234,
-        "islandPoints": 45
-    },
-    "236": {
-        "id": 236,
+    "590": {
+        "id": 590,
         "islandPoints": 57
     },
-    "237": {
-        "id": 237,
+    "591": {
+        "id": 591,
         "islandPoints": 57
     },
-    "238": {
-        "id": 238,
+    "592": {
+        "id": 592,
         "islandPoints": 57
     },
-    "239": {
-        "id": 239,
+    "593": {
+        "id": 593,
         "islandPoints": 57
     },
-    "240": {
-        "id": 240,
+    "594": {
+        "id": 594,
         "islandPoints": 57
     },
-    "241": {
-        "id": 241,
+    "595": {
+        "id": 595,
         "islandPoints": 57
     },
-    "242": {
-        "id": 242,
-        "islandPoints": 57
-    },
-    "243": {
-        "id": 243,
-        "islandPoints": 35
-    },
-    "244": {
-        "id": 244,
-        "islandPoints": 57
-    },
-    "245": {
-        "id": 245,
-        "islandPoints": 57
-    },
-    "246": {
-        "id": 246,
-        "islandPoints": 35
-    },
-    "247": {
-        "id": 247,
-        "islandPoints": 100
-    },
-    "249": {
-        "id": 249,
+    "596": {
+        "id": 596,
         "islandPoints": 45
     },
-    "250": {
-        "id": 250,
-        "islandPoints": 35
-    },
-    "251": {
-        "id": 251,
-        "islandPoints": 45
-    },
-    "252": {
-        "id": 252,
-        "islandPoints": 45
-    },
-    "253": {
-        "id": 253,
-        "islandPoints": 45
-    },
-    "254": {
-        "id": 254,
-        "islandPoints": 15
-    },
-    "255": {
-        "id": 255,
-        "islandPoints": 45
-    },
-    "256": {
-        "id": 256,
-        "islandPoints": 45
-    },
-    "259": {
-        "id": 259,
-        "islandPoints": 15
-    },
-    "260": {
-        "id": 260,
-        "islandPoints": 45
-    },
-    "261": {
-        "id": 261,
-        "islandPoints": 35
-    },
-    "262": {
-        "id": 262,
-        "islandPoints": 35
-    },
-    "264": {
-        "id": 264,
-        "islandPoints": 35
-    },
-    "265": {
-        "id": 265,
-        "islandPoints": 35
-    },
-    "266": {
-        "id": 266,
-        "islandPoints": 45
-    },
-    "267": {
-        "id": 267,
+    "598": {
+        "id": 598,
         "islandPoints": 57
     },
-    "270": {
-        "id": 270,
-        "islandPoints": 35
-    },
-    "271": {
-        "id": 271,
+    "599": {
+        "id": 599,
         "islandPoints": 70
     },
-    "272": {
-        "id": 272,
+    "600": {
+        "id": 600,
         "islandPoints": 45
     },
-    "273": {
-        "id": 273,
+    "601": {
+        "id": 601,
         "islandPoints": 45
     },
-    "274": {
-        "id": 274,
+    "602": {
+        "id": 602,
+        "islandPoints": 35
+    },
+    "605": {
+        "id": 605,
+        "islandPoints": 35
+    },
+    "606": {
+        "id": 606,
         "islandPoints": 81
     },
-    "275": {
-        "id": 275,
+    "610": {
+        "id": 610,
+        "islandPoints": -1
+    },
+    "611": {
+        "id": 611,
+        "islandPoints": 46
+    },
+    "612": {
+        "id": 612,
+        "islandPoints": 57
+    },
+    "613": {
+        "id": 613,
+        "islandPoints": 15
+    },
+    "614": {
+        "id": 614,
+        "islandPoints": 45
+    },
+    "615": {
+        "id": 615,
+        "islandPoints": 45
+    },
+    "616": {
+        "id": 616,
+        "islandPoints": 45
+    },
+    "617": {
+        "id": 617,
+        "islandPoints": 45
+    },
+    "618": {
+        "id": 618,
+        "islandPoints": 45
+    },
+    "619": {
+        "id": 619,
+        "islandPoints": 45
+    },
+    "620": {
+        "id": 620,
+        "islandPoints": 57
+    },
+    "621": {
+        "id": 621,
+        "islandPoints": 45
+    },
+    "622": {
+        "id": 622,
+        "islandPoints": 45
+    },
+    "623": {
+        "id": 623,
+        "islandPoints": -1
+    },
+    "624": {
+        "id": 624,
+        "islandPoints": 46
+    },
+    "625": {
+        "id": 625,
+        "islandPoints": 46
+    },
+    "626": {
+        "id": 626,
+        "islandPoints": 70
+    },
+    "627": {
+        "id": 627,
+        "islandPoints": 15
+    },
+    "628": {
+        "id": 628,
+        "islandPoints": 45
+    },
+    "629": {
+        "id": 629,
+        "islandPoints": 45
+    },
+    "630": {
+        "id": 630,
+        "islandPoints": 81
+    },
+    "631": {
+        "id": 631,
         "islandPoints": 35
     },
-    "276": {
-        "id": 276,
+    "632": {
+        "id": 632,
+        "islandPoints": 35
+    },
+    "633": {
+        "id": 633,
         "islandPoints": 45
     },
-    "277": {
-        "id": 277,
+    "634": {
+        "id": 634,
         "islandPoints": 45
     },
-    "278": {
-        "id": 278,
+    "635": {
+        "id": 635,
         "islandPoints": 45
     },
-    "279": {
-        "id": 279,
+    "636": {
+        "id": 636,
         "islandPoints": 45
     },
-    "280": {
-        "id": 280,
-        "islandPoints": 45
-    },
-    "281": {
-        "id": 281,
-        "islandPoints": 46
-    },
-    "282": {
-        "id": 282,
-        "islandPoints": 46
-    },
-    "283": {
-        "id": 283,
-        "islandPoints": 57
-    },
-    "284": {
-        "id": 284,
-        "islandPoints": 57
-    },
-    "285": {
-        "id": 285,
-        "islandPoints": 45
-    },
-    "286": {
-        "id": 286,
-        "islandPoints": 45
-    },
-    "287": {
-        "id": 287,
+    "637": {
+        "id": 637,
         "islandPoints": 70
     },
-    "288": {
-        "id": 288,
-        "islandPoints": 45
+    "638": {
+        "id": 638,
+        "islandPoints": 57
     },
-    "289": {
-        "id": 289,
-        "islandPoints": 45
+    "639": {
+        "id": 639,
+        "islandPoints": 57
     },
-    "290": {
-        "id": 290,
-        "islandPoints": 45
+    "641": {
+        "id": 641,
+        "islandPoints": 57
     },
-    "291": {
-        "id": 291,
-        "islandPoints": 45
+    "643": {
+        "id": 643,
+        "islandPoints": 35
     },
-    "292": {
-        "id": 292,
-        "islandPoints": 45
+    "644": {
+        "id": 644,
+        "islandPoints": 35
     },
-    "293": {
-        "id": 293,
-        "islandPoints": 70
+    "645": {
+        "id": 645,
+        "islandPoints": 35
     },
-    "294": {
-        "id": 294,
-        "islandPoints": 45
+    "646": {
+        "id": 646,
+        "islandPoints": 57
     },
-    "295": {
-        "id": 295,
-        "islandPoints": 45
-    },
-    "296": {
-        "id": 296,
-        "islandPoints": 45
-    },
-    "297": {
-        "id": 297,
-        "islandPoints": 15
-    },
-    "298": {
-        "id": 298,
-        "islandPoints": 15
-    },
-    "299": {
-        "id": 299,
-        "islandPoints": 45
-    },
-    "300": {
-        "id": 300,
-        "islandPoints": 45
-    },
-    "301": {
-        "id": 301,
-        "islandPoints": 45
-    },
-    "302": {
-        "id": 302,
-        "islandPoints": 45
-    },
-    "303": {
-        "id": 303,
-        "islandPoints": 45
-    },
-    "304": {
-        "id": 304,
-        "islandPoints": 45
-    },
-    "305": {
-        "id": 305,
-        "islandPoints": 15
-    },
-    "306": {
-        "id": 306,
-        "islandPoints": 45
-    },
-    "307": {
-        "id": 307,
+    "647": {
+        "id": 647,
         "islandPoints": 24
     },
-    "308": {
-        "id": 308,
+    "649": {
+        "id": 649,
+        "islandPoints": 57
+    },
+    "650": {
+        "id": 650,
         "islandPoints": 45
     },
-    "309": {
-        "id": 309,
-        "islandPoints": 46
-    },
-    "310": {
-        "id": 310,
-        "islandPoints": 46
-    },
-    "312": {
-        "id": 312,
-        "islandPoints": 57
-    },
-    "313": {
-        "id": 313,
-        "islandPoints": 57
-    },
-    "314": {
-        "id": 314,
-        "islandPoints": 45
-    },
-    "315": {
-        "id": 315,
-        "islandPoints": 45
-    },
-    "316": {
-        "id": 316,
-        "islandPoints": 57
-    },
-    "317": {
-        "id": 317,
-        "islandPoints": 57
-    },
-    "318": {
-        "id": 318,
+    "651": {
+        "id": 651,
         "islandPoints": 35
     },
-    "319": {
-        "id": 319,
+    "652": {
+        "id": 652,
+        "islandPoints": -1
+    },
+    "655": {
+        "id": 655,
         "islandPoints": 45
     },
-    "320": {
-        "id": 320,
+    "656": {
+        "id": 656,
         "islandPoints": 45
     },
-    "321": {
-        "id": 321,
+    "658": {
+        "id": 658,
         "islandPoints": 45
     },
-    "322": {
-        "id": 322,
+    "659": {
+        "id": 659,
+        "islandPoints": 45
+    },
+    "660": {
+        "id": 660,
+        "islandPoints": 24
+    },
+    "661": {
+        "id": 661,
         "islandPoints": 15
     },
-    "323": {
-        "id": 323,
-        "islandPoints": 35
+    "662": {
+        "id": 662,
+        "islandPoints": 15
     },
-    "324": {
-        "id": 324,
+    "663": {
+        "id": 663,
         "islandPoints": 45
     },
-    "336": {
-        "id": 336,
-        "islandPoints": 35
+    "664": {
+        "id": 664,
+        "islandPoints": 15
     },
-    "337": {
-        "id": 337,
-        "islandPoints": 200
+    "665": {
+        "id": 665,
+        "islandPoints": 45
     },
-    "338": {
-        "id": 338,
-        "islandPoints": 200
+    "666": {
+        "id": 666,
+        "islandPoints": 45
     },
-    "339": {
-        "id": 339,
-        "islandPoints": 200
+    "667": {
+        "id": 667,
+        "islandPoints": 45
     },
-    "340": {
-        "id": 340,
-        "islandPoints": 200
+    "673": {
+        "id": 673,
+        "islandPoints": 45
     },
-    "341": {
-        "id": 341,
-        "islandPoints": 200
-    },
-    "342": {
-        "id": 342,
-        "islandPoints": 200
-    },
-    "467": {
-        "id": 467,
+    "677": {
+        "id": 677,
         "islandPoints": -1
     }
 }
